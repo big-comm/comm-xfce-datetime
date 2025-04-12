@@ -1,0 +1,51 @@
+# Maintainer: Tales A. Mendonça <talesam@gmail.com>
+
+pkgname=comm-xfce-datetime
+pkgdesc="XFCE DateTime Tool is a GTK4-based Linux application that allows users to set and manage system time, date, and time zones."
+# Uncomment and edit the following lines as needed
+depends=(
+    'python>=3.9'
+    'python-pytz'
+    'gtk4'
+)
+#makedepends=('')
+#optdepends=('')
+#conflicts=('')
+#provides=('')
+#replaces=('')
+pkgver=$(date +%y.%m.%d)
+pkgrel=$(date +%H%M)
+arch=('any')
+license=('MIT')
+url="https://github.com/communitybig/${pkgname}"
+source=("git+${url}.git")
+md5sums=('SKIP')
+
+package() {
+    cd "${srcdir}/${pkgname}"
+
+    # Determine the correct source directory
+    if [ -d "${pkgname}" ]; then
+        srcdir="${srcdir}/${pkgname}/${pkgname}"
+    else
+        srcdir="${srcdir}/${pkgname}"
+    fi
+
+    # Install files
+    local dirs=("usr" "etc" "opt")
+    for dir in "${dirs[@]}"; do
+        if [ -d "${srcdir}/${dir}" ]; then
+            cp -a "${srcdir}/${dir}" "${pkgdir}/"
+        fi
+    done
+
+    # Install license file if present
+    if [ -f "LICENSE" ]; then
+        install -Dm644 LICENSE "${pkgdir}/usr/share/licenses/${pkgname}/LICENSE"
+    fi
+
+    # Install documentation if present
+    if [ -f "README.md" ]; then
+        install -Dm644 README.md "${pkgdir}/usr/share/doc/${pkgname}/README.md"
+    fi
+}

@@ -1,0 +1,675 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the comm-xfce-datetime package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: comm-xfce-datetime\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 35
+#: NEEDS WORK
+msgid "Date and Time Settings"
+msgstr "날짜 및 시간 설정"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 48
+#: NEEDS WORK
+msgid "Select Date"
+msgstr "날짜 선택"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 61
+#: NEEDS WORK
+msgid "Adjust Time"
+msgstr "시간 조정"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 72
+#: NEEDS WORK
+msgid "Hour:"
+msgstr "시간:"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 74
+#: NEEDS WORK
+msgid "Minute:"
+msgstr "분:"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 80
+#: NEEDS WORK
+msgid "Select Timezone"
+msgstr "시간대 선택"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 87
+#: NEEDS WORK
+msgid "Enable Automatic Synchronization"
+msgstr "자동 동기화 활성화"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 105
+#: NEEDS WORK
+msgid "Apply"
+msgstr "적용"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 108
+#: NEEDS WORK
+msgid "Cancel"
+msgstr "취소"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 111
+#: NEEDS WORK
+msgid "Synchronize"
+msgstr "동기화"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 138
+#: NEEDS WORK
+msgid "Auto synchronization enabled."
+msgstr "자동 동기화가 활성화되었습니다."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 140
+#: NEEDS WORK
+msgid "Auto synchronization disabled."
+msgstr "자동 동기화 비활성화."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 183
+#: NEEDS WORK
+msgid "Search..."
+msgstr "검색..."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 228
+#: NEEDS WORK
+msgid "No timezone selected."
+msgstr "시간대가 선택되지 않았습니다."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 235
+#: NEEDS WORK
+msgid ""
+"The following settings will be applied:\n"
+"\n"
+"Date: {}\n"
+"Time: {}\n"
+"Timezone: {}\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"다음 설정이 적용됩니다:\n"
+"\n"
+"날짜: {}\n"
+"시간: {}\n"
+"시간대: {}\n"
+"\n"
+"계속하시겠습니까?"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 280
+#: NEEDS WORK
+msgid "Settings applied successfully!"
+msgstr "설정이 성공적으로 적용되었습니다!"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 293
+#: NEEDS WORK
+msgid "Please wait, synchronizing..."
+msgstr "잠시 기다려 주십시오, 동기화 중..."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 308
+#: NEEDS WORK
+msgid "Synchronization completed successfully!"
+msgstr "동기화가 성공적으로 완료되었습니다!"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 69
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 70
+#: NEEDS WORK
+msgid "Status: Ready"
+msgstr "상태: 준비 완료"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 111
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 112
+#: NEEDS WORK
+msgid "Date"
+msgstr "날짜"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 124
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 125
+#: NEEDS WORK
+msgid "Time"
+msgstr "시간"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 141
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 142
+#: NEEDS WORK
+msgid "Second:"
+msgstr "초기:"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 148
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 149
+#: NEEDS WORK
+msgid "Date & Time"
+msgstr "날짜 및 시간"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 161
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 162
+#: NEEDS WORK
+msgid "Search:"
+msgstr "검색:"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 185
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 460
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 468
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 186
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 461
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 469
+#: NEEDS WORK
+msgid "Selected:"
+msgstr "선택됨:"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 185
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 468
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 186
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 469
+#: NEEDS WORK
+msgid "None"
+msgstr "없음"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 190
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 191
+#: NEEDS WORK
+msgid "Timezone"
+msgstr "시간대"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 202
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 203
+#: NEEDS WORK
+msgid "Time Synchronization"
+msgstr "시간 동기화"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 211
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 212
+#: NEEDS WORK
+msgid "Enable Network Time Synchronization"
+msgstr "네트워크 시간 동기화 활성화"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 219
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 220
+#: NEEDS WORK
+msgid "NTP Servers:"
+msgstr "NTP 서버:"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 230
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 231
+#: NEEDS WORK
+msgid "Note: NTP servers are configured in /etc/ntp.conf"
+msgstr "참고: NTP 서버는 /etc/ntp.conf에 구성됩니다."
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 239
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 240
+#: NEEDS WORK
+msgid "Hardware Clock"
+msgstr "하드웨어 시계"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 246
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 247
+#: NEEDS WORK
+msgid "Hardware clock uses UTC"
+msgstr "하드웨어 시계는 UTC를 사용합니다."
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 248
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 249
+#: NEEDS WORK
+msgid "Hardware clock uses local time"
+msgstr "하드웨어 시계는 로컬 시간을 사용합니다."
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 262
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 263
+#: NEEDS WORK
+msgid "System"
+msgstr "시스템"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 396
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 397
+#: NEEDS WORK
+msgid "Error loading timezone data: "
+msgstr "시간대 데이터 로드 오류:"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 402
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 403
+#: NEEDS WORK
+msgid "Brazil"
+msgstr "브라질"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 403
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 404
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 405
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 404
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 405
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 406
+#: NEEDS WORK
+msgid "United States"
+msgstr "미국"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 406
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 407
+#: NEEDS WORK
+msgid "Canada"
+msgstr "캐나다"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 407
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 408
+#: NEEDS WORK
+msgid "Mexico"
+msgstr "멕시코"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 408
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 409
+#: NEEDS WORK
+msgid "United Kingdom"
+msgstr "영국"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 409
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 410
+#: NEEDS WORK
+msgid "France"
+msgstr "프랑스"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 410
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 411
+#: NEEDS WORK
+msgid "Germany"
+msgstr "독일"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 411
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 412
+#: NEEDS WORK
+msgid "Italy"
+msgstr "이탈리아"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 412
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 413
+#: NEEDS WORK
+msgid "Spain"
+msgstr "스페인"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 413
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 414
+#: NEEDS WORK
+msgid "Russia"
+msgstr "러시아"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 414
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 415
+#: NEEDS WORK
+msgid "Egypt"
+msgstr "이집트"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 415
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 416
+#: NEEDS WORK
+msgid "South Africa"
+msgstr "남아프리카 공화국"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 416
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 417
+#: NEEDS WORK
+msgid "UAE"
+msgstr "UAE"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 417
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 418
+#: NEEDS WORK
+msgid "India"
+msgstr "인도"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 418
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 419
+#: NEEDS WORK
+msgid "Japan"
+msgstr "일본"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 419
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 420
+#: NEEDS WORK
+msgid "China"
+msgstr "중국"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 420
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 421
+#: NEEDS WORK
+msgid "South Korea"
+msgstr "대한민국"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 421
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 422
+#: NEEDS WORK
+msgid "Singapore"
+msgstr "싱가포르"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 422
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 423
+#: NEEDS WORK
+msgid "Australia"
+msgstr "호주"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 423
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 424
+#: NEEDS WORK
+msgid "New Zealand"
+msgstr "뉴질랜드"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 463
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 464
+#: NEEDS WORK
+msgid "Selected"
+msgstr "선택됨"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 463
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 545
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 650
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 662
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 675
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 686
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 464
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 546
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 651
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 663
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 676
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 687
+#: NEEDS WORK
+msgid "Status:"
+msgstr "상태:"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 500
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 501
+#: NEEDS WORK
+msgid "Local time:"
+msgstr "지역 시간:"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 500
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 503
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 505
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 501
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 504
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 506
+#: NEEDS WORK
+msgid "Current:"
+msgstr "현재:"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 503
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 504
+#: NEEDS WORK
+msgid "Unknown"
+msgstr "알 수 없음"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 505
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 506
+#: NEEDS WORK
+msgid "Error getting timezone"
+msgstr "시간대 가져오기 오류"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 539
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 540
+#: NEEDS WORK
+msgid "Network time synchronization enabled."
+msgstr "네트워크 시간 동기화가 활성화되었습니다."
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 541
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 542
+#: NEEDS WORK
+msgid "Network time synchronization disabled."
+msgstr "네트워크 시간 동기화가 비활성화되었습니다."
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 577
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 578
+#: NEEDS WORK
+msgid "No timezone selected. Please select a timezone from the list."
+msgstr "시간대가 선택되지 않았습니다. 목록에서 시간대를 선택해 주세요."
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 592
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 593
+#: NEEDS WORK
+msgid ""
+"The following settings will be applied:\n"
+"\n"
+"Date: {}\n"
+"Time: {}\n"
+"Timezone: {} ({})\n"
+"Hardware clock: {}\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"다음 설정이 적용됩니다:\n"
+"\n"
+"날짜: {}\n"
+"시간: {}\n"
+"시간대: {} ({})\n"
+"하드웨어 시계: {}\n"
+"\n"
+"계속하시겠습니까?"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 604
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 605
+#: NEEDS WORK
+msgid "Local time"
+msgstr "지역 시간"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 604
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 605
+#: NEEDS WORK
+msgid "UTC"
+msgstr "협정 세계시"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 686
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 687
+#: NEEDS WORK
+msgid "Synchronization failed."
+msgstr "동기화 실패."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 643
+#: NEEDS WORK
+msgid "Applying settings..."
+msgstr "설정 적용 중..."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 700
+#: NEEDS WORK
+msgid ""
+"Settings have been applied successfully!\n"
+"\n"
+"The new timezone is now active for system services and new applications. Some running applications "
+"may need to be restarted to use the new timezone settings."
+msgstr ""
+"설정이 성공적으로 적용되었습니다!\n"
+"\n"
+"새로운 시간대가 시스템 서비스 및 새로운 애플리케이션에 대해 활성화되었습니다. 일부 실행 중인 애플리케이션은 새로운 시간대 설정을 사용하기 위해 다시 시작해야 할 수 있습니다."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 761
+#: NEEDS WORK
+msgid "Permission denied. Please provide administrator password when prompted."
+msgstr "권한이 거부되었습니다. 요청 시 관리자 비밀번호를 입력하십시오."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 763
+#: NEEDS WORK
+msgid "Command failed"
+msgstr "명령 실패"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 984
+#: NEEDS WORK
+msgid "Some commands failed. Check system logs for details."
+msgstr "일부 명령이 실패했습니다. 자세한 내용은 시스템 로그를 확인하세요."

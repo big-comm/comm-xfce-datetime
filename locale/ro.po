@@ -1,0 +1,841 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the comm-xfce-datetime package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: comm-xfce-datetime\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 35
+#: NEEDS WORK
+msgid "Date and Time Settings"
+msgstr "Setări Dată și Oră"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 48
+#: NEEDS WORK
+msgid "Select Date"
+msgstr "Selectați data"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 61
+#: NEEDS WORK
+msgid "Adjust Time"
+msgstr "Ajusta Timpul"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 72
+#: NEEDS WORK
+msgid "Hour:"
+msgstr "Oră:"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 74
+#: NEEDS WORK
+msgid "Minute:"
+msgstr "Minut:"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 80
+#: NEEDS WORK
+msgid "Select Timezone"
+msgstr "Selectați fusul orar"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 87
+#: NEEDS WORK
+msgid "Enable Automatic Synchronization"
+msgstr "Activare sincronizare automată"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 105
+#: NEEDS WORK
+msgid "Apply"
+msgstr "Aplică"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 108
+#: NEEDS WORK
+msgid "Cancel"
+msgstr "Anulează"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 111
+#: NEEDS WORK
+msgid "Synchronize"
+msgstr "Sincronizați"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 138
+#: NEEDS WORK
+msgid "Auto synchronization enabled."
+msgstr "Sincronizare automată activată."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 140
+#: NEEDS WORK
+msgid "Auto synchronization disabled."
+msgstr "Sincronizarea automată dezactivată."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 183
+#: NEEDS WORK
+msgid "Search..."
+msgstr "Caută..."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 228
+#: NEEDS WORK
+msgid "No timezone selected."
+msgstr "Niciun fus orar selectat."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 235
+#: NEEDS WORK
+msgid ""
+"The following settings will be applied:\n"
+"\n"
+"Date: {}\n"
+"Time: {}\n"
+"Timezone: {}\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"Următoarele setări vor fi aplicate:\n"
+"\n"
+"Data: {}\n"
+"Ora: {}\n"
+"Fus orar: {}\n"
+"\n"
+"Doriți să continuați?"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 280
+#: NEEDS WORK
+msgid "Settings applied successfully!"
+msgstr "Setările aplicate cu succes!"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 293
+#: NEEDS WORK
+msgid "Please wait, synchronizing..."
+msgstr "Vă rugăm să așteptați, sincronizând..."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 308
+#: NEEDS WORK
+msgid "Synchronization completed successfully!"
+msgstr "Sincronizarea s-a finalizat cu succes!"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 69
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 70
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 71
+#: NEEDS WORK
+msgid "Status: Ready"
+msgstr "Stare: Pregătit"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 111
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 112
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 113
+#: NEEDS WORK
+msgid "Date"
+msgstr "Dată"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 124
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 125
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 126
+#: NEEDS WORK
+msgid "Time"
+msgstr "Timp"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 141
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 142
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 143
+#: NEEDS WORK
+msgid "Second:"
+msgstr "Secund:"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 148
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 149
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 150
+#: NEEDS WORK
+msgid "Date & Time"
+msgstr "Dată și Oră"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 161
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 162
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 163
+#: NEEDS WORK
+msgid "Search:"
+msgstr "Căutare:"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 185
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 460
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 468
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 186
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 461
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 469
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 187
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 462
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 470
+#: NEEDS WORK
+msgid "Selected:"
+msgstr "Selectat:"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 185
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 468
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 186
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 469
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 187
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 470
+#: NEEDS WORK
+msgid "None"
+msgstr "Nimic"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 190
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 191
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 192
+#: NEEDS WORK
+msgid "Timezone"
+msgstr "Fus orar"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 202
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 203
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 204
+#: NEEDS WORK
+msgid "Time Synchronization"
+msgstr "Sincronizare a timpului"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 211
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 212
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 213
+#: NEEDS WORK
+msgid "Enable Network Time Synchronization"
+msgstr "Activare sincronizare timp rețea"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 219
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 220
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 221
+#: NEEDS WORK
+msgid "NTP Servers:"
+msgstr "Servere NTP:"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 230
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 231
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 232
+#: NEEDS WORK
+msgid "Note: NTP servers are configured in /etc/ntp.conf"
+msgstr "Notă: Serverele NTP sunt configurate în /etc/ntp.conf"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 239
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 240
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 241
+#: NEEDS WORK
+msgid "Hardware Clock"
+msgstr "Ceas hardware"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 246
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 247
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 248
+#: NEEDS WORK
+msgid "Hardware clock uses UTC"
+msgstr "Ceasul hardware folosește UTC"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 248
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 249
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 250
+#: NEEDS WORK
+msgid "Hardware clock uses local time"
+msgstr "Ceasul hardware folosește ora locală"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 262
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 263
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 264
+#: NEEDS WORK
+msgid "System"
+msgstr "Sistem"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 396
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 397
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 398
+#: NEEDS WORK
+msgid "Error loading timezone data: "
+msgstr "Eroare la încărcarea datelor despre fusul orar:"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 402
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 403
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 404
+#: NEEDS WORK
+msgid "Brazil"
+msgstr "Brazilia"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 403
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 404
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 405
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 404
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 405
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 406
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 405
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 406
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 407
+#: NEEDS WORK
+msgid "United States"
+msgstr "Statele Unite"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 406
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 407
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 408
+#: NEEDS WORK
+msgid "Canada"
+msgstr "Canada"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 407
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 408
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 409
+#: NEEDS WORK
+msgid "Mexico"
+msgstr "Mexic"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 408
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 409
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 410
+#: NEEDS WORK
+msgid "United Kingdom"
+msgstr "Regatul Unit"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 409
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 410
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 411
+#: NEEDS WORK
+msgid "France"
+msgstr "Franța"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 410
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 411
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 412
+#: NEEDS WORK
+msgid "Germany"
+msgstr "Germania"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 411
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 412
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 413
+#: NEEDS WORK
+msgid "Italy"
+msgstr "Italia"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 412
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 413
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 414
+#: NEEDS WORK
+msgid "Spain"
+msgstr "Spania"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 413
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 414
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 415
+#: NEEDS WORK
+msgid "Russia"
+msgstr "Rusia"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 414
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 415
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 416
+#: NEEDS WORK
+msgid "Egypt"
+msgstr "Egipt"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 415
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 416
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 417
+#: NEEDS WORK
+msgid "South Africa"
+msgstr "Africa de Sud"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 416
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 417
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 418
+#: NEEDS WORK
+msgid "UAE"
+msgstr "EAU"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 417
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 418
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 419
+#: NEEDS WORK
+msgid "India"
+msgstr "India"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 418
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 419
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 420
+#: NEEDS WORK
+msgid "Japan"
+msgstr "Japonia"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 419
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 420
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 421
+#: NEEDS WORK
+msgid "China"
+msgstr "China"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 420
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 421
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 422
+#: NEEDS WORK
+msgid "South Korea"
+msgstr "Coreea de Sud"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 421
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 422
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 423
+#: NEEDS WORK
+msgid "Singapore"
+msgstr "Singapore"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 422
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 423
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 424
+#: NEEDS WORK
+msgid "Australia"
+msgstr "Australia"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 423
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 424
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 425
+#: NEEDS WORK
+msgid "New Zealand"
+msgstr "Noua Zeelandă"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 463
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 464
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 465
+#: NEEDS WORK
+msgid "Selected"
+msgstr "Selectat"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 463
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 545
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 650
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 662
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 675
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 686
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 464
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 546
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 651
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 663
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 676
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 687
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 465
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 547
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 695
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 715
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 728
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 739
+#: NEEDS WORK
+msgid "Status:"
+msgstr "Stare:"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 500
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 501
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 502
+#: NEEDS WORK
+msgid "Local time:"
+msgstr "Ora locală:"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 500
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 503
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 505
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 501
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 504
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 506
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 502
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 505
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 507
+#: NEEDS WORK
+msgid "Current:"
+msgstr "Curent:"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 503
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 504
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 505
+#: NEEDS WORK
+msgid "Unknown"
+msgstr "Necunoscut"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 505
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 506
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 507
+#: NEEDS WORK
+msgid "Error getting timezone"
+msgstr "Eroare la obținerea fusului orar"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 539
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 540
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 541
+#: NEEDS WORK
+msgid "Network time synchronization enabled."
+msgstr "Sincronizarea timpului de rețea activată."
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 541
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 542
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 543
+#: NEEDS WORK
+msgid "Network time synchronization disabled."
+msgstr "Sincronizarea timpului rețelei dezactivată."
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 577
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 578
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 579
+#: NEEDS WORK
+msgid "No timezone selected. Please select a timezone from the list."
+msgstr "Niciun fus orar selectat. Vă rugăm să selectați un fus orar din listă."
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 592
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 593
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 594
+#: NEEDS WORK
+msgid ""
+"The following settings will be applied:\n"
+"\n"
+"Date: {}\n"
+"Time: {}\n"
+"Timezone: {} ({})\n"
+"Hardware clock: {}\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"Următoarele setări vor fi aplicate:\n"
+"\n"
+"Data: {}\n"
+"Ora: {}\n"
+"Fus orar: {} ({})\n"
+"Ceas hardware: {}\n"
+"\n"
+"Doriți să continuați?"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 604
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 605
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 606
+#: NEEDS WORK
+msgid "Local time"
+msgstr "Timp local"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 604
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 605
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 606
+#: NEEDS WORK
+msgid "UTC"
+msgstr "UTC"
+
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 686
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 687
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 739
+#: NEEDS WORK
+msgid "Synchronization failed."
+msgstr "Sincronizarea a eșuat."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 643
+#: NEEDS WORK
+msgid "Applying settings..."
+msgstr "Aplicarea setărilor..."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 700
+#: NEEDS WORK
+msgid ""
+"Settings have been applied successfully!\n"
+"\n"
+"The new timezone is now active for system services and new applications. Some running applications "
+"may need to be restarted to use the new timezone settings."
+msgstr ""
+"Setările au fost aplicate cu succes!\n"
+"\n"
+"Noua zonă orară este acum activă pentru serviciile de sistem și aplicațiile noi. Unele aplicații în "
+"execuție pot necesita repornirea pentru a utiliza noile setări ale zonei orare."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 761
+#: NEEDS WORK
+msgid "Permission denied. Please provide administrator password when prompted."
+msgstr "Permisiune refuzată. Vă rugăm să furnizați parola de administrator atunci când vi se solicită."
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 763
+#: NEEDS WORK
+msgid "Command failed"
+msgstr "Comandă eșuată"
+
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 984
+#: NEEDS WORK
+msgid "Some commands failed. Check system logs for details."
+msgstr "Unele comenzi au eșuat. Verificați jurnalele de sistem pentru detalii."
