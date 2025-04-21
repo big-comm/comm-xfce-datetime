@@ -15,129 +15,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
-
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 35
 #: NEEDS WORK
 msgid "Date and Time Settings"
 msgstr "Tarih ve Saat Ayarları"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 48
-#: NEEDS WORK
-msgid "Select Date"
-msgstr "Tarih Seçin"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 61
-#: NEEDS WORK
-msgid "Adjust Time"
-msgstr "Zamanı Ayarla"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 72
-#: NEEDS WORK
-msgid "Hour:"
-msgstr "Saat:"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 74
-#: NEEDS WORK
-msgid "Minute:"
-msgstr "Dakika:"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 80
-#: NEEDS WORK
-msgid "Select Timezone"
-msgstr "Zaman Dilimi Seçin"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 87
-#: NEEDS WORK
-msgid "Enable Automatic Synchronization"
-msgstr "Otomatik Senkronizasyonu Etkinleştir"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 105
-#: NEEDS WORK
-msgid "Apply"
-msgstr "Uygula"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 108
-#: NEEDS WORK
-msgid "Cancel"
-msgstr "İptal"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 111
-#: NEEDS WORK
-msgid "Synchronize"
-msgstr "Senkronize"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 138
-#: NEEDS WORK
-msgid "Auto synchronization enabled."
-msgstr "Otomatik senkronizasyon etkin."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 140
-#: NEEDS WORK
-msgid "Auto synchronization disabled."
-msgstr "Otomatik senkronizasyon devre dışı."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 183
-#: NEEDS WORK
-msgid "Search..."
-msgstr "Ara..."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 228
-#: NEEDS WORK
-msgid "No timezone selected."
-msgstr "Zaman dilimi seçilmedi."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 235
-#: NEEDS WORK
-msgid ""
-"The following settings will be applied:\n"
-"\n"
-"Date: {}\n"
-"Time: {}\n"
-"Timezone: {}\n"
-"\n"
-"Do you want to continue?"
-msgstr ""
-"Aşağıdaki ayarlar uygulanacaktır:\n"
-"\n"
-"Tarih: {}\n"
-"Saat: {}\n"
-"Saat dilimi: {}\n"
-"\n"
-"Devam etmek istiyor musunuz?"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 280
-#: NEEDS WORK
-msgid "Settings applied successfully!"
-msgstr "Ayarlar başarıyla uygulandı!"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 293
-#: NEEDS WORK
-msgid "Please wait, synchronizing..."
-msgstr "Lütfen bekleyin, senkronize ediliyor..."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 308
-#: NEEDS WORK
-msgid "Synchronization completed successfully!"
-msgstr "Senkranizasyon başarıyla tamamlandı!"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -149,7 +31,21 @@ msgstr "Senkranizasyon başarıyla tamamlandı!"
 #: NEEDS WORK
 msgid "Status: Ready"
 msgstr "Durum: Hazır"
-
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 108
+#: NEEDS WORK
+msgid "Cancel"
+msgstr "İptal"
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 111
+#: NEEDS WORK
+msgid "Synchronize"
+msgstr "Senkronize"
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 105
+#: NEEDS WORK
+msgid "Apply"
+msgstr "Uygula"
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -161,7 +57,6 @@ msgstr "Durum: Hazır"
 #: NEEDS WORK
 msgid "Date"
 msgstr "Tarih"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -173,7 +68,16 @@ msgstr "Tarih"
 #: NEEDS WORK
 msgid "Time"
 msgstr "Zaman"
-
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 72
+#: NEEDS WORK
+msgid "Hour:"
+msgstr "Saat:"
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 74
+#: NEEDS WORK
+msgid "Minute:"
+msgstr "Dakika:"
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -185,7 +89,6 @@ msgstr "Zaman"
 #: NEEDS WORK
 msgid "Second:"
 msgstr "İkinci:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -197,7 +100,6 @@ msgstr "İkinci:"
 #: NEEDS WORK
 msgid "Date & Time"
 msgstr "Tarih ve Saat"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -209,7 +111,6 @@ msgstr "Tarih ve Saat"
 #: NEEDS WORK
 msgid "Search:"
 msgstr "Ara:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -227,7 +128,6 @@ msgstr "Ara:"
 #: NEEDS WORK
 msgid "Selected:"
 msgstr "Seçili:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -242,7 +142,6 @@ msgstr "Seçili:"
 #: NEEDS WORK
 msgid "None"
 msgstr "Hiçbiri"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -254,7 +153,6 @@ msgstr "Hiçbiri"
 #: NEEDS WORK
 msgid "Timezone"
 msgstr "Saat Dilimi"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -266,7 +164,6 @@ msgstr "Saat Dilimi"
 #: NEEDS WORK
 msgid "Time Synchronization"
 msgstr "Zaman Senkronizasyonu"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -278,7 +175,6 @@ msgstr "Zaman Senkronizasyonu"
 #: NEEDS WORK
 msgid "Enable Network Time Synchronization"
 msgstr "Ağ Zaman Senkronizasyonunu Etkinleştir"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -290,7 +186,6 @@ msgstr "Ağ Zaman Senkronizasyonunu Etkinleştir"
 #: NEEDS WORK
 msgid "NTP Servers:"
 msgstr "NTP Sunucuları:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -302,7 +197,6 @@ msgstr "NTP Sunucuları:"
 #: NEEDS WORK
 msgid "Note: NTP servers are configured in /etc/ntp.conf"
 msgstr "Not: NTP sunucuları /etc/ntp.conf dosyasında yapılandırılmıştır."
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -314,7 +208,6 @@ msgstr "Not: NTP sunucuları /etc/ntp.conf dosyasında yapılandırılmıştır.
 #: NEEDS WORK
 msgid "Hardware Clock"
 msgstr "Donanım Saati"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -326,7 +219,6 @@ msgstr "Donanım Saati"
 #: NEEDS WORK
 msgid "Hardware clock uses UTC"
 msgstr "Donanım saati UTC kullanır"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -338,7 +230,6 @@ msgstr "Donanım saati UTC kullanır"
 #: NEEDS WORK
 msgid "Hardware clock uses local time"
 msgstr "Donanım saati yerel zamanı kullanır"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -350,7 +241,6 @@ msgstr "Donanım saati yerel zamanı kullanır"
 #: NEEDS WORK
 msgid "System"
 msgstr "Sistem"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -362,7 +252,6 @@ msgstr "Sistem"
 #: NEEDS WORK
 msgid "Error loading timezone data: "
 msgstr "Zaman dilimi verisi yüklenirken hata:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -374,7 +263,6 @@ msgstr "Zaman dilimi verisi yüklenirken hata:"
 #: NEEDS WORK
 msgid "Brazil"
 msgstr "Brezilya"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -392,7 +280,6 @@ msgstr "Brezilya"
 #: NEEDS WORK
 msgid "United States"
 msgstr "Amerika Birleşik Devletleri"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -404,7 +291,6 @@ msgstr "Amerika Birleşik Devletleri"
 #: NEEDS WORK
 msgid "Canada"
 msgstr "Kanada"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -416,7 +302,6 @@ msgstr "Kanada"
 #: NEEDS WORK
 msgid "Mexico"
 msgstr "Meksika"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -428,7 +313,6 @@ msgstr "Meksika"
 #: NEEDS WORK
 msgid "United Kingdom"
 msgstr "Birleşik Krallık"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -440,7 +324,6 @@ msgstr "Birleşik Krallık"
 #: NEEDS WORK
 msgid "France"
 msgstr "Fransa"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -452,7 +335,6 @@ msgstr "Fransa"
 #: NEEDS WORK
 msgid "Germany"
 msgstr "Almanya"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -464,7 +346,6 @@ msgstr "Almanya"
 #: NEEDS WORK
 msgid "Italy"
 msgstr "İtalya"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -476,7 +357,6 @@ msgstr "İtalya"
 #: NEEDS WORK
 msgid "Spain"
 msgstr "İspanya"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -488,7 +368,6 @@ msgstr "İspanya"
 #: NEEDS WORK
 msgid "Russia"
 msgstr "Rusya"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -500,7 +379,6 @@ msgstr "Rusya"
 #: NEEDS WORK
 msgid "Egypt"
 msgstr "Mısır"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -512,7 +390,6 @@ msgstr "Mısır"
 #: NEEDS WORK
 msgid "South Africa"
 msgstr "Güney Afrika"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -524,7 +401,6 @@ msgstr "Güney Afrika"
 #: NEEDS WORK
 msgid "UAE"
 msgstr "BAE"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -536,7 +412,6 @@ msgstr "BAE"
 #: NEEDS WORK
 msgid "India"
 msgstr "Hindistan"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -548,7 +423,6 @@ msgstr "Hindistan"
 #: NEEDS WORK
 msgid "Japan"
 msgstr "Japonya"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -560,7 +434,6 @@ msgstr "Japonya"
 #: NEEDS WORK
 msgid "China"
 msgstr "Çin"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -572,7 +445,6 @@ msgstr "Çin"
 #: NEEDS WORK
 msgid "South Korea"
 msgstr "Güney Kore"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -584,7 +456,6 @@ msgstr "Güney Kore"
 #: NEEDS WORK
 msgid "Singapore"
 msgstr "Singapur"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -596,7 +467,6 @@ msgstr "Singapur"
 #: NEEDS WORK
 msgid "Australia"
 msgstr "Avustralya"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -608,19 +478,6 @@ msgstr "Avustralya"
 #: NEEDS WORK
 msgid "New Zealand"
 msgstr "Yeni Zelanda"
-
-# 
-# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
-# 
-# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 463
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 464
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 465
-#: NEEDS WORK
-msgid "Selected"
-msgstr "Seçili"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -647,19 +504,17 @@ msgstr "Seçili"
 #: NEEDS WORK
 msgid "Status:"
 msgstr "Durum:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 500
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 501
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 502
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 463
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 464
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 465
 #: NEEDS WORK
-msgid "Local time:"
-msgstr "Yerel saat:"
-
+msgid "Selected"
+msgstr "Seçili"
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -677,7 +532,17 @@ msgstr "Yerel saat:"
 #: NEEDS WORK
 msgid "Current:"
 msgstr "Mevcut:"
-
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 500
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 501
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 502
+#: NEEDS WORK
+msgid "Local time:"
+msgstr "Yerel saat:"
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -689,7 +554,6 @@ msgstr "Mevcut:"
 #: NEEDS WORK
 msgid "Unknown"
 msgstr "Bilinmiyor"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -701,7 +565,6 @@ msgstr "Bilinmiyor"
 #: NEEDS WORK
 msgid "Error getting timezone"
 msgstr "Zaman dilimi alınırken hata oluştu"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -713,7 +576,6 @@ msgstr "Zaman dilimi alınırken hata oluştu"
 #: NEEDS WORK
 msgid "Network time synchronization enabled."
 msgstr "Ağ zamanı senkronizasyonu etkinleştirildi."
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -725,7 +587,6 @@ msgstr "Ağ zamanı senkronizasyonu etkinleştirildi."
 #: NEEDS WORK
 msgid "Network time synchronization disabled."
 msgstr "Ağ zaman senkronizasyonu devre dışı."
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -737,7 +598,6 @@ msgstr "Ağ zaman senkronizasyonu devre dışı."
 #: NEEDS WORK
 msgid "No timezone selected. Please select a timezone from the list."
 msgstr "Zaman dilimi seçilmedi. Lütfen listeden bir zaman dilimi seçin."
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -765,19 +625,6 @@ msgstr ""
 "Donanım saati: {}\n"
 "\n"
 "Devam etmek istiyor musunuz?"
-
-# 
-# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
-# 
-# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 604
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 605
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 606
-#: NEEDS WORK
-msgid "Local time"
-msgstr "Yerel saat"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -789,25 +636,27 @@ msgstr "Yerel saat"
 #: NEEDS WORK
 msgid "UTC"
 msgstr "UTC"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 686
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 687
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 739
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 604
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 605
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 606
 #: NEEDS WORK
-msgid "Synchronization failed."
-msgstr "Senkranizasyon başarısız oldu."
-
+msgid "Local time"
+msgstr "Yerel saat"
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 643
 #: NEEDS WORK
 msgid "Applying settings..."
 msgstr "Ayarlar uygulanıyor..."
-
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 280
+#: NEEDS WORK
+msgid "Settings applied successfully!"
+msgstr "Ayarlar başarıyla uygulandı!"
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 700
 #: NEEDS WORK
@@ -821,19 +670,37 @@ msgstr ""
 "\n"
 "Yeni saat dilimi artık sistem hizmetleri ve yeni uygulamalar için aktiftir. Bazı çalışan "
 "uygulamaların yeni saat dilimi ayarlarını kullanabilmesi için yeniden başlatılması gerekebilir."
-
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 293
+#: NEEDS WORK
+msgid "Please wait, synchronizing..."
+msgstr "Lütfen bekleyin, senkronize ediliyor..."
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 308
+#: NEEDS WORK
+msgid "Synchronization completed successfully!"
+msgstr "Senkranizasyon başarıyla tamamlandı!"
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 686
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 687
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 739
+#: NEEDS WORK
+msgid "Synchronization failed."
+msgstr "Senkranizasyon başarısız oldu."
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 761
 #: NEEDS WORK
 msgid "Permission denied. Please provide administrator password when prompted."
 msgstr "İzin reddedildi. Lütfen istendiğinde yönetici şifresini girin."
-
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 763
 #: NEEDS WORK
 msgid "Command failed"
 msgstr "Komut başarısız oldu"
-
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 984
 #: NEEDS WORK

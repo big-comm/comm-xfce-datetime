@@ -15,129 +15,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
-
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 35
 #: NEEDS WORK
 msgid "Date and Time Settings"
 msgstr "Dagsetning og Tímasetningar"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 48
-#: NEEDS WORK
-msgid "Select Date"
-msgstr "Veldu dagsetningu"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 61
-#: NEEDS WORK
-msgid "Adjust Time"
-msgstr "Aðlaga tíma"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 72
-#: NEEDS WORK
-msgid "Hour:"
-msgstr "Klukkustund:"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 74
-#: NEEDS WORK
-msgid "Minute:"
-msgstr "Mínúta:"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 80
-#: NEEDS WORK
-msgid "Select Timezone"
-msgstr "Veldu tímasvæði"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 87
-#: NEEDS WORK
-msgid "Enable Automatic Synchronization"
-msgstr "Virkja sjálfvirka samstillingu"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 105
-#: NEEDS WORK
-msgid "Apply"
-msgstr "Sækja"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 108
-#: NEEDS WORK
-msgid "Cancel"
-msgstr "Hætta við"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 111
-#: NEEDS WORK
-msgid "Synchronize"
-msgstr "Samhæfing"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 138
-#: NEEDS WORK
-msgid "Auto synchronization enabled."
-msgstr "Sjálfvirk samstilling virkjuð."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 140
-#: NEEDS WORK
-msgid "Auto synchronization disabled."
-msgstr "Sjálfvirk samstilling óvirk."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 183
-#: NEEDS WORK
-msgid "Search..."
-msgstr "Leita..."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 228
-#: NEEDS WORK
-msgid "No timezone selected."
-msgstr "Engin tímasvæði valið."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 235
-#: NEEDS WORK
-msgid ""
-"The following settings will be applied:\n"
-"\n"
-"Date: {}\n"
-"Time: {}\n"
-"Timezone: {}\n"
-"\n"
-"Do you want to continue?"
-msgstr ""
-"Eftirfarandi stillingar verða notaðar:\n"
-"\n"
-"Dagsetning: {}\n"
-"Tími: {}\n"
-"Tímabelti: {}\n"
-"\n"
-"Viltu halda áfram?"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 280
-#: NEEDS WORK
-msgid "Settings applied successfully!"
-msgstr "Stillingar beittar með árangri!"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 293
-#: NEEDS WORK
-msgid "Please wait, synchronizing..."
-msgstr "Vinsamlegast bíðu, að samræma..."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 308
-#: NEEDS WORK
-msgid "Synchronization completed successfully!"
-msgstr "Samþætting lokið með góðum árangri!"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -146,7 +28,21 @@ msgstr "Samþætting lokið með góðum árangri!"
 #: NEEDS WORK
 msgid "Status: Ready"
 msgstr "Staða: Klár"
-
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 108
+#: NEEDS WORK
+msgid "Cancel"
+msgstr "Hætta við"
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 111
+#: NEEDS WORK
+msgid "Synchronize"
+msgstr "Samhæfing"
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 105
+#: NEEDS WORK
+msgid "Apply"
+msgstr "Sækja"
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -155,7 +51,6 @@ msgstr "Staða: Klár"
 #: NEEDS WORK
 msgid "Date"
 msgstr "Dagsetning"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -164,7 +59,16 @@ msgstr "Dagsetning"
 #: NEEDS WORK
 msgid "Time"
 msgstr "Tími"
-
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 72
+#: NEEDS WORK
+msgid "Hour:"
+msgstr "Klukkustund:"
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 74
+#: NEEDS WORK
+msgid "Minute:"
+msgstr "Mínúta:"
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -173,7 +77,6 @@ msgstr "Tími"
 #: NEEDS WORK
 msgid "Second:"
 msgstr "Sekúnda:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -182,7 +85,6 @@ msgstr "Sekúnda:"
 #: NEEDS WORK
 msgid "Date & Time"
 msgstr "Dagsetning og tími"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -191,7 +93,6 @@ msgstr "Dagsetning og tími"
 #: NEEDS WORK
 msgid "Search:"
 msgstr "Leita:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -204,7 +105,6 @@ msgstr "Leita:"
 #: NEEDS WORK
 msgid "Selected:"
 msgstr "Valið:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -215,7 +115,6 @@ msgstr "Valið:"
 #: NEEDS WORK
 msgid "None"
 msgstr "Enginn"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -224,7 +123,6 @@ msgstr "Enginn"
 #: NEEDS WORK
 msgid "Timezone"
 msgstr "Tímabelti"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -233,7 +131,6 @@ msgstr "Tímabelti"
 #: NEEDS WORK
 msgid "Time Synchronization"
 msgstr "Tímasamræming"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -242,7 +139,6 @@ msgstr "Tímasamræming"
 #: NEEDS WORK
 msgid "Enable Network Time Synchronization"
 msgstr "Virkja nettímastillingu"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -251,7 +147,6 @@ msgstr "Virkja nettímastillingu"
 #: NEEDS WORK
 msgid "NTP Servers:"
 msgstr "NTP þjónar:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -260,7 +155,6 @@ msgstr "NTP þjónar:"
 #: NEEDS WORK
 msgid "Note: NTP servers are configured in /etc/ntp.conf"
 msgstr "Athugið: NTP þjónar eru stilltir í /etc/ntp.conf"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -269,7 +163,6 @@ msgstr "Athugið: NTP þjónar eru stilltir í /etc/ntp.conf"
 #: NEEDS WORK
 msgid "Hardware Clock"
 msgstr "Hugbúnaðarklukka"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -278,7 +171,6 @@ msgstr "Hugbúnaðarklukka"
 #: NEEDS WORK
 msgid "Hardware clock uses UTC"
 msgstr "Hugbúnaðarklukka notar UTC"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -287,7 +179,6 @@ msgstr "Hugbúnaðarklukka notar UTC"
 #: NEEDS WORK
 msgid "Hardware clock uses local time"
 msgstr "Hugbúnaðarklukka notar staðartíma"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -296,7 +187,6 @@ msgstr "Hugbúnaðarklukka notar staðartíma"
 #: NEEDS WORK
 msgid "System"
 msgstr "Kerfi"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -305,7 +195,6 @@ msgstr "Kerfi"
 #: NEEDS WORK
 msgid "Error loading timezone data: "
 msgstr "Villa að hlaða tímabeltisgögnum:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -314,7 +203,6 @@ msgstr "Villa að hlaða tímabeltisgögnum:"
 #: NEEDS WORK
 msgid "Brazil"
 msgstr "Brazílía"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -327,7 +215,6 @@ msgstr "Brazílía"
 #: NEEDS WORK
 msgid "United States"
 msgstr "Bandaríkin"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -336,7 +223,6 @@ msgstr "Bandaríkin"
 #: NEEDS WORK
 msgid "Canada"
 msgstr "Kanada"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -345,7 +231,6 @@ msgstr "Kanada"
 #: NEEDS WORK
 msgid "Mexico"
 msgstr "Mexíkó"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -354,7 +239,6 @@ msgstr "Mexíkó"
 #: NEEDS WORK
 msgid "United Kingdom"
 msgstr "Bretland"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -363,7 +247,6 @@ msgstr "Bretland"
 #: NEEDS WORK
 msgid "France"
 msgstr "Frakkland"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -372,7 +255,6 @@ msgstr "Frakkland"
 #: NEEDS WORK
 msgid "Germany"
 msgstr "Þýskaland"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -381,7 +263,6 @@ msgstr "Þýskaland"
 #: NEEDS WORK
 msgid "Italy"
 msgstr "Ítalía"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -390,7 +271,6 @@ msgstr "Ítalía"
 #: NEEDS WORK
 msgid "Spain"
 msgstr "Spánn"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -399,7 +279,6 @@ msgstr "Spánn"
 #: NEEDS WORK
 msgid "Russia"
 msgstr "Rússland"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -408,7 +287,6 @@ msgstr "Rússland"
 #: NEEDS WORK
 msgid "Egypt"
 msgstr "Egypt"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -417,7 +295,6 @@ msgstr "Egypt"
 #: NEEDS WORK
 msgid "South Africa"
 msgstr "Suður-Afríka"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -426,7 +303,6 @@ msgstr "Suður-Afríka"
 #: NEEDS WORK
 msgid "UAE"
 msgstr "UAE"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -435,7 +311,6 @@ msgstr "UAE"
 #: NEEDS WORK
 msgid "India"
 msgstr "Indland"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -444,7 +319,6 @@ msgstr "Indland"
 #: NEEDS WORK
 msgid "Japan"
 msgstr "Japan"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -453,7 +327,6 @@ msgstr "Japan"
 #: NEEDS WORK
 msgid "China"
 msgstr "Kína"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -462,7 +335,6 @@ msgstr "Kína"
 #: NEEDS WORK
 msgid "South Korea"
 msgstr "Suður-Kórea"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -471,7 +343,6 @@ msgstr "Suður-Kórea"
 #: NEEDS WORK
 msgid "Singapore"
 msgstr "Singapúr"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -480,7 +351,6 @@ msgstr "Singapúr"
 #: NEEDS WORK
 msgid "Australia"
 msgstr "Ástralía"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -489,16 +359,6 @@ msgstr "Ástralía"
 #: NEEDS WORK
 msgid "New Zealand"
 msgstr "Nýja Sjáland"
-
-# 
-# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 463
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 464
-#: NEEDS WORK
-msgid "Selected"
-msgstr "Valinður"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -517,16 +377,14 @@ msgstr "Valinður"
 #: NEEDS WORK
 msgid "Status:"
 msgstr "Staða:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 500
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 501
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 463
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 464
 #: NEEDS WORK
-msgid "Local time:"
-msgstr "Staðartími:"
-
+msgid "Selected"
+msgstr "Valinður"
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -539,7 +397,14 @@ msgstr "Staðartími:"
 #: NEEDS WORK
 msgid "Current:"
 msgstr "Núverandi:"
-
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 500
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 501
+#: NEEDS WORK
+msgid "Local time:"
+msgstr "Staðartími:"
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -548,7 +413,6 @@ msgstr "Núverandi:"
 #: NEEDS WORK
 msgid "Unknown"
 msgstr "Ókunnugt"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -557,7 +421,6 @@ msgstr "Ókunnugt"
 #: NEEDS WORK
 msgid "Error getting timezone"
 msgstr "Villa við að sækja tímabelti"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -566,7 +429,6 @@ msgstr "Villa við að sækja tímabelti"
 #: NEEDS WORK
 msgid "Network time synchronization enabled."
 msgstr "Tímasamræming netkerfis virkjuð."
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -575,7 +437,6 @@ msgstr "Tímasamræming netkerfis virkjuð."
 #: NEEDS WORK
 msgid "Network time synchronization disabled."
 msgstr "Tímasamræming netkerfis óvirk."
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -584,7 +445,6 @@ msgstr "Tímasamræming netkerfis óvirk."
 #: NEEDS WORK
 msgid "No timezone selected. Please select a timezone from the list."
 msgstr "Engin tímasvæði valið. Vinsamlegast veldu tímasvæði úr listanum."
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -609,16 +469,6 @@ msgstr ""
 "Hugbúnaðarklukka: {}\n"
 "\n"
 "Viltu halda áfram?"
-
-# 
-# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 604
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 605
-#: NEEDS WORK
-msgid "Local time"
-msgstr "Staðartími"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -627,22 +477,24 @@ msgstr "Staðartími"
 #: NEEDS WORK
 msgid "UTC"
 msgstr "UTC"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 686
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 687
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 604
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 605
 #: NEEDS WORK
-msgid "Synchronization failed."
-msgstr "Samþætting mistókst."
-
+msgid "Local time"
+msgstr "Staðartími"
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 643
 #: NEEDS WORK
 msgid "Applying settings..."
 msgstr "Beita stillingum..."
-
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 280
+#: NEEDS WORK
+msgid "Settings applied successfully!"
+msgstr "Stillingar beittar með árangri!"
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 700
 #: NEEDS WORK
@@ -656,19 +508,34 @@ msgstr ""
 "\n"
 "Nýja tímabeltið er nú virkt fyrir kerfisþjónustu og nýjar forrit. Sum forrit sem eru í gangi gætu "
 "þurft að endurræsa til að nota nýju tímabeltisstillingarnar."
-
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 293
+#: NEEDS WORK
+msgid "Please wait, synchronizing..."
+msgstr "Vinsamlegast bíðu, að samræma..."
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 308
+#: NEEDS WORK
+msgid "Synchronization completed successfully!"
+msgstr "Samþætting lokið með góðum árangri!"
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 686
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 687
+#: NEEDS WORK
+msgid "Synchronization failed."
+msgstr "Samþætting mistókst."
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 761
 #: NEEDS WORK
 msgid "Permission denied. Please provide administrator password when prompted."
 msgstr "Aðgangur hafnað. Vinsamlegast sláðu inn stjórnanda lykilorð þegar beðið er um það."
-
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 763
 #: NEEDS WORK
 msgid "Command failed"
 msgstr "Skipun mistókst"
-
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 984
 #: NEEDS WORK
