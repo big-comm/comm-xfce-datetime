@@ -1,0 +1,369 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the . package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: .\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2025-04-21 00:04+0000\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 48
+msgid   "Date and Time Settings"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 95
+msgid   "Status: Ready"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 111
+msgid   "Cancel"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 116
+msgid   "Synchronize"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 120
+msgid   "Apply"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 140
+msgid   "Date"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 153
+msgid   "Time"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 166
+msgid   "Hour:"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 168
+msgid   "Minute:"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 170
+msgid   "Second:"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 177
+msgid   "Date & Time"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 190
+msgid   "Search:"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 214
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 498
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 506
+msgid   "Selected:"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 214
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 506
+msgid   "None"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 219
+msgid   "Timezone"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 231
+msgid   "Time Synchronization"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 240
+msgid   "Enable Network Time Synchronization"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 248
+msgid   "NTP Servers:"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 259
+msgid   "Note: NTP servers are configured in /etc/ntp.conf"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 268
+msgid   "Hardware Clock"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 275
+msgid   "Hardware clock uses UTC"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 277
+msgid   "Hardware clock uses local time"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 291
+msgid   "System"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 432
+msgid   "Error loading timezone data: "
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 438
+msgid   "Brazil"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 439
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 440
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 441
+msgid   "United States"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 442
+msgid   "Canada"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 443
+msgid   "Mexico"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 444
+msgid   "United Kingdom"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 445
+msgid   "France"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 446
+msgid   "Germany"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 447
+msgid   "Italy"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 448
+msgid   "Spain"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 449
+msgid   "Russia"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 450
+msgid   "Egypt"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 451
+msgid   "South Africa"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 452
+msgid   "UAE"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 453
+msgid   "India"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 454
+msgid   "Japan"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 455
+msgid   "China"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 456
+msgid   "South Korea"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 457
+msgid   "Singapore"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 458
+msgid   "Australia"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 459
+msgid   "New Zealand"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 501
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 586
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 745
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 798
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 810
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 821
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 993
+msgid   "Status:"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 501
+msgid   "Selected"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 538
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 541
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 543
+msgid   "Current:"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 538
+msgid   "Local time:"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 541
+msgid   "Unknown"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 543
+msgid   "Error getting timezone"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 577
+msgid   "Network time synchronization enabled."
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 579
+msgid   "Network time synchronization disabled."
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 618
+msgid   "No timezone selected. Please select a timezone from the list."
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 634
+msgid   "The following settings will be applied:\n"
+        "\n"
+        "Date: {}\n"
+        "Time: {}\n"
+        "Timezone: {} ({})\n"
+        "Hardware clock: {}\n"
+        "\n"
+        "Do you want to continue?"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 645
+msgid   "UTC"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 645
+msgid   "Local time"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 726
+msgid   "Applying settings..."
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 745
+msgid   "Settings applied successfully!"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 750
+msgid   "Settings have been applied successfully!\n"
+        "\n"
+        "The new timezone is now active for system services and new "
+        "applications. Some running applications may need to be restarted to "
+        "use the new timezone settings."
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 798
+msgid   "Please wait, synchronizing..."
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 810
+msgid   "Synchronization completed successfully!"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 821
+msgid   "Synchronization failed."
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 843
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 1003
+msgid   "Permission denied. Please provide administrator password when "
+        "prompted."
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 845
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 1005
+msgid   "Command failed"
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 994
+msgid   "Some commands failed. Check system logs for details."
+msgstr  ""
