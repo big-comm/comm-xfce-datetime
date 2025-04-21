@@ -15,129 +15,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
-
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 35
 #: NEEDS WORK
 msgid "Date and Time Settings"
 msgstr "Postavke datuma i vremena"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 48
-#: NEEDS WORK
-msgid "Select Date"
-msgstr "Odaberite datum"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 61
-#: NEEDS WORK
-msgid "Adjust Time"
-msgstr "Podešavanje vremena"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 72
-#: NEEDS WORK
-msgid "Hour:"
-msgstr "Sat:"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 74
-#: NEEDS WORK
-msgid "Minute:"
-msgstr "Minuta:"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 80
-#: NEEDS WORK
-msgid "Select Timezone"
-msgstr "Odaberite vremensku zonu"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 87
-#: NEEDS WORK
-msgid "Enable Automatic Synchronization"
-msgstr "Omogući automatsku sinkronizaciju"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 105
-#: NEEDS WORK
-msgid "Apply"
-msgstr "Primijeni"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 108
-#: NEEDS WORK
-msgid "Cancel"
-msgstr "Otkaži"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 111
-#: NEEDS WORK
-msgid "Synchronize"
-msgstr "Sinkronizirati"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 138
-#: NEEDS WORK
-msgid "Auto synchronization enabled."
-msgstr "Automatska sinkronizacija omogućena."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 140
-#: NEEDS WORK
-msgid "Auto synchronization disabled."
-msgstr "Automatska sinkronizacija onemogućena."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 183
-#: NEEDS WORK
-msgid "Search..."
-msgstr "Pretraži..."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 228
-#: NEEDS WORK
-msgid "No timezone selected."
-msgstr "Nema odabrane vremenske zone."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 235
-#: NEEDS WORK
-msgid ""
-"The following settings will be applied:\n"
-"\n"
-"Date: {}\n"
-"Time: {}\n"
-"Timezone: {}\n"
-"\n"
-"Do you want to continue?"
-msgstr ""
-"Sljedeće postavke će biti primijenjene:\n"
-"\n"
-"Datum: {}\n"
-"Vrijeme: {}\n"
-"Vremenska zona: {}\n"
-"\n"
-"Želite li nastaviti?"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 280
-#: NEEDS WORK
-msgid "Settings applied successfully!"
-msgstr "Postavke su uspješno primijenjene!"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 293
-#: NEEDS WORK
-msgid "Please wait, synchronizing..."
-msgstr "Molimo pričekajte, sinkronizacija..."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 308
-#: NEEDS WORK
-msgid "Synchronization completed successfully!"
-msgstr "Sinhronizacija je uspješno završena!"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -146,7 +28,21 @@ msgstr "Sinhronizacija je uspješno završena!"
 #: NEEDS WORK
 msgid "Status: Ready"
 msgstr "Status: Spreman"
-
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 108
+#: NEEDS WORK
+msgid "Cancel"
+msgstr "Otkaži"
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 111
+#: NEEDS WORK
+msgid "Synchronize"
+msgstr "Sinkronizirati"
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 105
+#: NEEDS WORK
+msgid "Apply"
+msgstr "Primijeni"
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -155,7 +51,6 @@ msgstr "Status: Spreman"
 #: NEEDS WORK
 msgid "Date"
 msgstr "Datum"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -164,7 +59,16 @@ msgstr "Datum"
 #: NEEDS WORK
 msgid "Time"
 msgstr "Vrijeme"
-
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 72
+#: NEEDS WORK
+msgid "Hour:"
+msgstr "Sat:"
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 74
+#: NEEDS WORK
+msgid "Minute:"
+msgstr "Minuta:"
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -173,7 +77,6 @@ msgstr "Vrijeme"
 #: NEEDS WORK
 msgid "Second:"
 msgstr "Sekunda:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -182,7 +85,6 @@ msgstr "Sekunda:"
 #: NEEDS WORK
 msgid "Date & Time"
 msgstr "Datum i vrijeme"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -191,7 +93,6 @@ msgstr "Datum i vrijeme"
 #: NEEDS WORK
 msgid "Search:"
 msgstr "Pretraži:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -204,7 +105,6 @@ msgstr "Pretraži:"
 #: NEEDS WORK
 msgid "Selected:"
 msgstr "Odabrano:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -215,7 +115,6 @@ msgstr "Odabrano:"
 #: NEEDS WORK
 msgid "None"
 msgstr "Nema"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -224,7 +123,6 @@ msgstr "Nema"
 #: NEEDS WORK
 msgid "Timezone"
 msgstr "Vremenska zona"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -233,7 +131,6 @@ msgstr "Vremenska zona"
 #: NEEDS WORK
 msgid "Time Synchronization"
 msgstr "Sinkronizacija vremena"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -242,7 +139,6 @@ msgstr "Sinkronizacija vremena"
 #: NEEDS WORK
 msgid "Enable Network Time Synchronization"
 msgstr "Omogući sinkronizaciju vremena putem mreže"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -251,7 +147,6 @@ msgstr "Omogući sinkronizaciju vremena putem mreže"
 #: NEEDS WORK
 msgid "NTP Servers:"
 msgstr "NTP poslužitelji:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -260,7 +155,6 @@ msgstr "NTP poslužitelji:"
 #: NEEDS WORK
 msgid "Note: NTP servers are configured in /etc/ntp.conf"
 msgstr "Napomena: NTP poslužitelji su konfigurirani u /etc/ntp.conf"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -269,7 +163,6 @@ msgstr "Napomena: NTP poslužitelji su konfigurirani u /etc/ntp.conf"
 #: NEEDS WORK
 msgid "Hardware Clock"
 msgstr "Hardverski sat"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -278,7 +171,6 @@ msgstr "Hardverski sat"
 #: NEEDS WORK
 msgid "Hardware clock uses UTC"
 msgstr "Hardverski sat koristi UTC"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -287,7 +179,6 @@ msgstr "Hardverski sat koristi UTC"
 #: NEEDS WORK
 msgid "Hardware clock uses local time"
 msgstr "Hardverski sat koristi lokalno vrijeme"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -296,7 +187,6 @@ msgstr "Hardverski sat koristi lokalno vrijeme"
 #: NEEDS WORK
 msgid "System"
 msgstr "Sustav"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -305,7 +195,6 @@ msgstr "Sustav"
 #: NEEDS WORK
 msgid "Error loading timezone data: "
 msgstr "Greška pri učitavanju podataka o vremenskoj zoni:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -314,7 +203,6 @@ msgstr "Greška pri učitavanju podataka o vremenskoj zoni:"
 #: NEEDS WORK
 msgid "Brazil"
 msgstr "Brazilija"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -327,7 +215,6 @@ msgstr "Brazilija"
 #: NEEDS WORK
 msgid "United States"
 msgstr "Sjedinjene Američke Države"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -336,7 +223,6 @@ msgstr "Sjedinjene Američke Države"
 #: NEEDS WORK
 msgid "Canada"
 msgstr "Kanada"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -345,7 +231,6 @@ msgstr "Kanada"
 #: NEEDS WORK
 msgid "Mexico"
 msgstr "Meksiko"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -354,7 +239,6 @@ msgstr "Meksiko"
 #: NEEDS WORK
 msgid "United Kingdom"
 msgstr "Ujedinjeno Kraljevstvo"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -363,7 +247,6 @@ msgstr "Ujedinjeno Kraljevstvo"
 #: NEEDS WORK
 msgid "France"
 msgstr "Francuska"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -372,7 +255,6 @@ msgstr "Francuska"
 #: NEEDS WORK
 msgid "Germany"
 msgstr "Njemačka"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -381,7 +263,6 @@ msgstr "Njemačka"
 #: NEEDS WORK
 msgid "Italy"
 msgstr "Italija"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -390,7 +271,6 @@ msgstr "Italija"
 #: NEEDS WORK
 msgid "Spain"
 msgstr "Španjolska"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -399,7 +279,6 @@ msgstr "Španjolska"
 #: NEEDS WORK
 msgid "Russia"
 msgstr "Rusija"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -408,7 +287,6 @@ msgstr "Rusija"
 #: NEEDS WORK
 msgid "Egypt"
 msgstr "Egipat"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -417,7 +295,6 @@ msgstr "Egipat"
 #: NEEDS WORK
 msgid "South Africa"
 msgstr "Južna Afrika"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -426,7 +303,6 @@ msgstr "Južna Afrika"
 #: NEEDS WORK
 msgid "UAE"
 msgstr "UAE"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -435,7 +311,6 @@ msgstr "UAE"
 #: NEEDS WORK
 msgid "India"
 msgstr "Indija"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -444,7 +319,6 @@ msgstr "Indija"
 #: NEEDS WORK
 msgid "Japan"
 msgstr "Japan"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -453,7 +327,6 @@ msgstr "Japan"
 #: NEEDS WORK
 msgid "China"
 msgstr "Kina"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -462,7 +335,6 @@ msgstr "Kina"
 #: NEEDS WORK
 msgid "South Korea"
 msgstr "Južna Koreja"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -471,7 +343,6 @@ msgstr "Južna Koreja"
 #: NEEDS WORK
 msgid "Singapore"
 msgstr "Singapur"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -480,7 +351,6 @@ msgstr "Singapur"
 #: NEEDS WORK
 msgid "Australia"
 msgstr "Australija"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -489,16 +359,6 @@ msgstr "Australija"
 #: NEEDS WORK
 msgid "New Zealand"
 msgstr "Nova Zelandija"
-
-# 
-# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 463
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 464
-#: NEEDS WORK
-msgid "Selected"
-msgstr "Odabrano"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -517,16 +377,14 @@ msgstr "Odabrano"
 #: NEEDS WORK
 msgid "Status:"
 msgstr "Status:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 500
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 501
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 463
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 464
 #: NEEDS WORK
-msgid "Local time:"
-msgstr "Lokalno vrijeme:"
-
+msgid "Selected"
+msgstr "Odabrano"
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -539,7 +397,14 @@ msgstr "Lokalno vrijeme:"
 #: NEEDS WORK
 msgid "Current:"
 msgstr "Trenutno:"
-
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 500
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 501
+#: NEEDS WORK
+msgid "Local time:"
+msgstr "Lokalno vrijeme:"
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -548,7 +413,6 @@ msgstr "Trenutno:"
 #: NEEDS WORK
 msgid "Unknown"
 msgstr "Nepoznatо"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -557,7 +421,6 @@ msgstr "Nepoznatо"
 #: NEEDS WORK
 msgid "Error getting timezone"
 msgstr "Greška prilikom dobivanja vremenske zone"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -566,7 +429,6 @@ msgstr "Greška prilikom dobivanja vremenske zone"
 #: NEEDS WORK
 msgid "Network time synchronization enabled."
 msgstr "Sinkronizacija vremena mreže omogućena."
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -575,7 +437,6 @@ msgstr "Sinkronizacija vremena mreže omogućena."
 #: NEEDS WORK
 msgid "Network time synchronization disabled."
 msgstr "Sinkronizacija vremena mreže onemogućena."
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -584,7 +445,6 @@ msgstr "Sinkronizacija vremena mreže onemogućena."
 #: NEEDS WORK
 msgid "No timezone selected. Please select a timezone from the list."
 msgstr "Nema odabrane vremenske zone. Molimo odaberite vremensku zonu s popisa."
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -609,16 +469,6 @@ msgstr ""
 "Hardverski sat: {}\n"
 "\n"
 "Želite li nastaviti?"
-
-# 
-# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 604
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 605
-#: NEEDS WORK
-msgid "Local time"
-msgstr "Lokalno vrijeme"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -627,22 +477,24 @@ msgstr "Lokalno vrijeme"
 #: NEEDS WORK
 msgid "UTC"
 msgstr "UTC"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 686
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 687
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 604
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 605
 #: NEEDS WORK
-msgid "Synchronization failed."
-msgstr "Sinhronizacija nije uspjela."
-
+msgid "Local time"
+msgstr "Lokalno vrijeme"
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 643
 #: NEEDS WORK
 msgid "Applying settings..."
 msgstr "Primjena postavki..."
-
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 280
+#: NEEDS WORK
+msgid "Settings applied successfully!"
+msgstr "Postavke su uspješno primijenjene!"
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 700
 #: NEEDS WORK
@@ -656,19 +508,34 @@ msgstr ""
 "\n"
 "Nova vremenska zona sada je aktivna za sustavne usluge i nove aplikacije. Neke aktivne aplikacije "
 "možda će trebati ponovno pokrenuti kako bi koristile nove postavke vremenske zone."
-
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 293
+#: NEEDS WORK
+msgid "Please wait, synchronizing..."
+msgstr "Molimo pričekajte, sinkronizacija..."
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 308
+#: NEEDS WORK
+msgid "Synchronization completed successfully!"
+msgstr "Sinhronizacija je uspješno završena!"
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 686
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 687
+#: NEEDS WORK
+msgid "Synchronization failed."
+msgstr "Sinhronizacija nije uspjela."
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 761
 #: NEEDS WORK
 msgid "Permission denied. Please provide administrator password when prompted."
 msgstr "Pristup odbijen. Molimo unesite administratorsku lozinku kada se zatraži."
-
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 763
 #: NEEDS WORK
 msgid "Command failed"
 msgstr "Naredba nije uspjela"
-
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 984
 #: NEEDS WORK

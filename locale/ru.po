@@ -15,129 +15,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
-
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 35
 #: NEEDS WORK
 msgid "Date and Time Settings"
 msgstr "Настройки даты и времени"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 48
-#: NEEDS WORK
-msgid "Select Date"
-msgstr "Выбрать дату"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 61
-#: NEEDS WORK
-msgid "Adjust Time"
-msgstr "Настроить время"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 72
-#: NEEDS WORK
-msgid "Hour:"
-msgstr "Час:"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 74
-#: NEEDS WORK
-msgid "Minute:"
-msgstr "Минута:"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 80
-#: NEEDS WORK
-msgid "Select Timezone"
-msgstr "Выберите часовой пояс"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 87
-#: NEEDS WORK
-msgid "Enable Automatic Synchronization"
-msgstr "Включить автоматическую синхронизацию"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 105
-#: NEEDS WORK
-msgid "Apply"
-msgstr "Применить"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 108
-#: NEEDS WORK
-msgid "Cancel"
-msgstr "Отмена"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 111
-#: NEEDS WORK
-msgid "Synchronize"
-msgstr "Синхронизировать"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 138
-#: NEEDS WORK
-msgid "Auto synchronization enabled."
-msgstr "Автоматическая синхронизация включена."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 140
-#: NEEDS WORK
-msgid "Auto synchronization disabled."
-msgstr "Авто синхронизация отключена."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 183
-#: NEEDS WORK
-msgid "Search..."
-msgstr "Поиск..."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 228
-#: NEEDS WORK
-msgid "No timezone selected."
-msgstr "Часовой пояс не выбран."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 235
-#: NEEDS WORK
-msgid ""
-"The following settings will be applied:\n"
-"\n"
-"Date: {}\n"
-"Time: {}\n"
-"Timezone: {}\n"
-"\n"
-"Do you want to continue?"
-msgstr ""
-"Следующие настройки будут применены:\n"
-"\n"
-"Дата: {}\n"
-"Время: {}\n"
-"Часовой пояс: {}\n"
-"\n"
-"Вы хотите продолжить?"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 280
-#: NEEDS WORK
-msgid "Settings applied successfully!"
-msgstr "Настройки успешно применены!"
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 293
-#: NEEDS WORK
-msgid "Please wait, synchronizing..."
-msgstr "Пожалуйста, подождите, синхронизация..."
-
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 308
-#: NEEDS WORK
-msgid "Synchronization completed successfully!"
-msgstr "Синхронизация завершена успешно!"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -149,7 +31,21 @@ msgstr "Синхронизация завершена успешно!"
 #: NEEDS WORK
 msgid "Status: Ready"
 msgstr "Статус: Готово"
-
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 108
+#: NEEDS WORK
+msgid "Cancel"
+msgstr "Отмена"
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 111
+#: NEEDS WORK
+msgid "Synchronize"
+msgstr "Синхронизировать"
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 105
+#: NEEDS WORK
+msgid "Apply"
+msgstr "Применить"
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -161,7 +57,6 @@ msgstr "Статус: Готово"
 #: NEEDS WORK
 msgid "Date"
 msgstr "Дата"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -173,7 +68,16 @@ msgstr "Дата"
 #: NEEDS WORK
 msgid "Time"
 msgstr "Время"
-
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 72
+#: NEEDS WORK
+msgid "Hour:"
+msgstr "Час:"
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 74
+#: NEEDS WORK
+msgid "Minute:"
+msgstr "Минута:"
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -185,7 +89,6 @@ msgstr "Время"
 #: NEEDS WORK
 msgid "Second:"
 msgstr "Второй:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -197,7 +100,6 @@ msgstr "Второй:"
 #: NEEDS WORK
 msgid "Date & Time"
 msgstr "Дата и Время"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -209,7 +111,6 @@ msgstr "Дата и Время"
 #: NEEDS WORK
 msgid "Search:"
 msgstr "Поиск:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -227,7 +128,6 @@ msgstr "Поиск:"
 #: NEEDS WORK
 msgid "Selected:"
 msgstr "Выбрано:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -242,7 +142,6 @@ msgstr "Выбрано:"
 #: NEEDS WORK
 msgid "None"
 msgstr "Ничего"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -254,7 +153,6 @@ msgstr "Ничего"
 #: NEEDS WORK
 msgid "Timezone"
 msgstr "Часовой пояс"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -266,7 +164,6 @@ msgstr "Часовой пояс"
 #: NEEDS WORK
 msgid "Time Synchronization"
 msgstr "Синхронизация времени"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -278,7 +175,6 @@ msgstr "Синхронизация времени"
 #: NEEDS WORK
 msgid "Enable Network Time Synchronization"
 msgstr "Включить синхронизацию времени по сети"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -290,7 +186,6 @@ msgstr "Включить синхронизацию времени по сети
 #: NEEDS WORK
 msgid "NTP Servers:"
 msgstr "NTP-серверы:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -302,7 +197,6 @@ msgstr "NTP-серверы:"
 #: NEEDS WORK
 msgid "Note: NTP servers are configured in /etc/ntp.conf"
 msgstr "Примечание: NTP-серверы настраиваются в /etc/ntp.conf"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -314,7 +208,6 @@ msgstr "Примечание: NTP-серверы настраиваются в /
 #: NEEDS WORK
 msgid "Hardware Clock"
 msgstr "Аппаратные часы"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -326,7 +219,6 @@ msgstr "Аппаратные часы"
 #: NEEDS WORK
 msgid "Hardware clock uses UTC"
 msgstr "Аппаратные часы используют UTC"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -338,7 +230,6 @@ msgstr "Аппаратные часы используют UTC"
 #: NEEDS WORK
 msgid "Hardware clock uses local time"
 msgstr "Аппаратные часы используют местное время"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -350,7 +241,6 @@ msgstr "Аппаратные часы используют местное вре
 #: NEEDS WORK
 msgid "System"
 msgstr "Система"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -362,7 +252,6 @@ msgstr "Система"
 #: NEEDS WORK
 msgid "Error loading timezone data: "
 msgstr "Ошибка загрузки данных о временной зоне:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -374,7 +263,6 @@ msgstr "Ошибка загрузки данных о временной зон�
 #: NEEDS WORK
 msgid "Brazil"
 msgstr "Бразилия"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -392,7 +280,6 @@ msgstr "Бразилия"
 #: NEEDS WORK
 msgid "United States"
 msgstr "Соединенные Штаты"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -404,7 +291,6 @@ msgstr "Соединенные Штаты"
 #: NEEDS WORK
 msgid "Canada"
 msgstr "Канада"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -416,7 +302,6 @@ msgstr "Канада"
 #: NEEDS WORK
 msgid "Mexico"
 msgstr "Мексика"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -428,7 +313,6 @@ msgstr "Мексика"
 #: NEEDS WORK
 msgid "United Kingdom"
 msgstr "Великобритания"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -440,7 +324,6 @@ msgstr "Великобритания"
 #: NEEDS WORK
 msgid "France"
 msgstr "Франция"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -452,7 +335,6 @@ msgstr "Франция"
 #: NEEDS WORK
 msgid "Germany"
 msgstr "Германия"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -464,7 +346,6 @@ msgstr "Германия"
 #: NEEDS WORK
 msgid "Italy"
 msgstr "Италия"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -476,7 +357,6 @@ msgstr "Италия"
 #: NEEDS WORK
 msgid "Spain"
 msgstr "Испания"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -488,7 +368,6 @@ msgstr "Испания"
 #: NEEDS WORK
 msgid "Russia"
 msgstr "Россия"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -500,7 +379,6 @@ msgstr "Россия"
 #: NEEDS WORK
 msgid "Egypt"
 msgstr "Египет"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -512,7 +390,6 @@ msgstr "Египет"
 #: NEEDS WORK
 msgid "South Africa"
 msgstr "Южная Африка"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -524,7 +401,6 @@ msgstr "Южная Африка"
 #: NEEDS WORK
 msgid "UAE"
 msgstr "ОАЭ"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -536,7 +412,6 @@ msgstr "ОАЭ"
 #: NEEDS WORK
 msgid "India"
 msgstr "Индия"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -548,7 +423,6 @@ msgstr "Индия"
 #: NEEDS WORK
 msgid "Japan"
 msgstr "Япония"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -560,7 +434,6 @@ msgstr "Япония"
 #: NEEDS WORK
 msgid "China"
 msgstr "Китай"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -572,7 +445,6 @@ msgstr "Китай"
 #: NEEDS WORK
 msgid "South Korea"
 msgstr "Южная Корея"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -584,7 +456,6 @@ msgstr "Южная Корея"
 #: NEEDS WORK
 msgid "Singapore"
 msgstr "Сингапур"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -596,7 +467,6 @@ msgstr "Сингапур"
 #: NEEDS WORK
 msgid "Australia"
 msgstr "Австралия"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -608,19 +478,6 @@ msgstr "Австралия"
 #: NEEDS WORK
 msgid "New Zealand"
 msgstr "Новая Зеландия"
-
-# 
-# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
-# 
-# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 463
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 464
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 465
-#: NEEDS WORK
-msgid "Selected"
-msgstr "Выбранный"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -647,19 +504,17 @@ msgstr "Выбранный"
 #: NEEDS WORK
 msgid "Status:"
 msgstr "Статус:"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 500
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 501
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 502
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 463
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 464
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 465
 #: NEEDS WORK
-msgid "Local time:"
-msgstr "Местное время:"
-
+msgid "Selected"
+msgstr "Выбранный"
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -677,7 +532,17 @@ msgstr "Местное время:"
 #: NEEDS WORK
 msgid "Current:"
 msgstr "Текущий:"
-
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 500
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 501
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 502
+#: NEEDS WORK
+msgid "Local time:"
+msgstr "Местное время:"
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -689,7 +554,6 @@ msgstr "Текущий:"
 #: NEEDS WORK
 msgid "Unknown"
 msgstr "Неизвестно"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -701,7 +565,6 @@ msgstr "Неизвестно"
 #: NEEDS WORK
 msgid "Error getting timezone"
 msgstr "Ошибка получения часового пояса"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -713,7 +576,6 @@ msgstr "Ошибка получения часового пояса"
 #: NEEDS WORK
 msgid "Network time synchronization enabled."
 msgstr "Синхронизация времени сети включена."
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -725,7 +587,6 @@ msgstr "Синхронизация времени сети включена."
 #: NEEDS WORK
 msgid "Network time synchronization disabled."
 msgstr "Синхронизация времени сети отключена."
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -737,7 +598,6 @@ msgstr "Синхронизация времени сети отключена."
 #: NEEDS WORK
 msgid "No timezone selected. Please select a timezone from the list."
 msgstr "Часовой пояс не выбран. Пожалуйста, выберите часовой пояс из списка."
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -765,19 +625,6 @@ msgstr ""
 "Аппаратные часы: {}\n"
 "\n"
 "Вы хотите продолжить?"
-
-# 
-# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
-# 
-# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 604
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 605
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 606
-#: NEEDS WORK
-msgid "Local time"
-msgstr "Местное время"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
@@ -789,25 +636,27 @@ msgstr "Местное время"
 #: NEEDS WORK
 msgid "UTC"
 msgstr "UTC"
-
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
 # #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
 # 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 686
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 687
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 739
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 604
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 605
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 606
 #: NEEDS WORK
-msgid "Synchronization failed."
-msgstr "Синхронизация не удалась."
-
+msgid "Local time"
+msgstr "Местное время"
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 643
 #: NEEDS WORK
 msgid "Applying settings..."
 msgstr "Применение настроек..."
-
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 280
+#: NEEDS WORK
+msgid "Settings applied successfully!"
+msgstr "Настройки успешно применены!"
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 700
 #: NEEDS WORK
@@ -821,19 +670,37 @@ msgstr ""
 "\n"
 "Новый часовой пояс теперь активен для системных служб и новых приложений. Некоторые запущенные "
 "приложения могут потребовать перезапуска для использования новых настроек часового пояса."
-
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 293
+#: NEEDS WORK
+msgid "Please wait, synchronizing..."
+msgstr "Пожалуйста, подождите, синхронизация..."
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 308
+#: NEEDS WORK
+msgid "Synchronization completed successfully!"
+msgstr "Синхронизация завершена успешно!"
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# #-#-#-#-#  comm-xfce-datetime.pot (comm-xfce-datetime)  #-#-#-#-#
+# 
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 686
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 687
+# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 739
+#: NEEDS WORK
+msgid "Synchronization failed."
+msgstr "Синхронизация не удалась."
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 761
 #: NEEDS WORK
 msgid "Permission denied. Please provide administrator password when prompted."
 msgstr "Доступ запрещен. Пожалуйста, введите пароль администратора, когда будет предложено."
-
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 763
 #: NEEDS WORK
 msgid "Command failed"
 msgstr "Команда не выполнена"
-
 # 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 984
 #: NEEDS WORK
