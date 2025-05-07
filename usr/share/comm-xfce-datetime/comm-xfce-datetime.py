@@ -707,6 +707,17 @@ class DateTimeApp(Gtk.Window):  # Alterado para Gtk.Window
             commands.append(["timedatectl", "set-time", f"{date_str} {time_str}"])
 
         return commands
+    
+    def restart_xfce_panel(self):
+        try:
+            subprocess.run(["xfce4-panel", "--restart"], check=False)
+        except Exception as e:
+            GLib.idle_add(
+                self.show_message_dialog,
+                Gtk.MessageType.ERROR,
+                _("Failed to restart XFCE panel: ") + str(e)
+            )
+        return False
 
     def on_confirm_response(
         self, dialog, response,
@@ -738,6 +749,9 @@ class DateTimeApp(Gtk.Window):  # Alterado para Gtk.Window
                 # Apply timezone to session environment
                 self._apply_timezone_to_session(timezone)
 
+                # Restart Panel for apply config
+                GLib.idle_add(lambda: self.restart_xfce_panel())
+                
                 # Close progress dialog
                 progress_dialog.destroy()
 
