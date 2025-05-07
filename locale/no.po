@@ -486,6 +486,11 @@ msgstr "UTC"
 msgid "Local time"
 msgstr "Lokal tid"
 # 
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 718
+#: NEEDS WORK
+msgid "Failed to restart XFCE panel: "
+msgstr "Mislyktes med å starte XFCE-panelet på nytt:"
+# 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 643
 #: NEEDS WORK
 msgid "Applying settings..."

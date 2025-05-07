@@ -486,6 +486,11 @@ msgstr "협정 세계시"
 msgid "Local time"
 msgstr "지역 시간"
 # 
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 718
+#: NEEDS WORK
+msgid "Failed to restart XFCE panel: "
+msgstr "XFCE 패널을 다시 시작하지 못했습니다:"
+# 
 # File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 643
 #: NEEDS WORK
 msgid "Applying settings..."

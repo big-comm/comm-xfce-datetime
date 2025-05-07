@@ -242,11 +242,11 @@ msgstr  ""
 #
 # File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 501
 # File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 586
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 745
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 798
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 810
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 821
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 993
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 759
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 812
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 824
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 835
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 1007
 msgid   "Status:"
 msgstr  ""
 
@@ -315,17 +315,22 @@ msgid   "Local time"
 msgstr  ""
 
 #
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 726
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 718
+msgid   "Failed to restart XFCE panel: "
+msgstr  ""
+
+#
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 737
 msgid   "Applying settings..."
 msgstr  ""
 
 #
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 745
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 759
 msgid   "Settings applied successfully!"
 msgstr  ""
 
 #
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 750
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 764
 msgid   "Settings have been applied successfully!\n"
         "\n"
         "The new timezone is now active for system services and new "
@@ -334,34 +339,34 @@ msgid   "Settings have been applied successfully!\n"
 msgstr  ""
 
 #
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 798
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 812
 msgid   "Please wait, synchronizing..."
 msgstr  ""
 
 #
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 810
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 824
 msgid   "Synchronization completed successfully!"
 msgstr  ""
 
 #
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 821
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 835
 msgid   "Synchronization failed."
 msgstr  ""
 
 #
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 843
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 1003
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 857
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 1017
 msgid   "Permission denied. Please provide administrator password when "
         "prompted."
 msgstr  ""
 
 #
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 845
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 1005
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 859
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 1019
 msgid   "Command failed"
 msgstr  ""
 
 #
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 994
+# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 1008
 msgid   "Some commands failed. Check system logs for details."
 msgstr  ""
