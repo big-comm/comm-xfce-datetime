@@ -1,12 +1,12 @@
 # Maintainer: Tales A. Mendonça <talesam@gmail.com>
 
 pkgname=comm-xfce-datetime
-pkgdesc="XFCE DateTime Tool is a GTK4-based Linux application that allows users to set and manage system time, date, and time zones."
+pkgdesc="XFCE DateTime Tool is a GTK3-based Linux application that allows users to set and manage system time, date, and time zones."
 # Uncomment and edit the following lines as needed
 depends=(
     'python>=3.9'
-    'python-pytz'
-    'gtk4'
+    'python-gobject'
+    'gtk3'
 )
 #makedepends=('')
 #optdepends=('')
