@@ -6,6 +6,7 @@ import subprocess
 import tempfile
 import threading
 import time
+from zoneinfo import ZoneInfo
 
 # Third-party imports
 import gi
@@ -339,49 +340,36 @@ class DateTimeApp(Gtk.Window):  # Alterado para Gtk.Window
     def get_time_in_timezone(self, timezone):
         """Get the current time in the specified timezone"""
         try:
-            # Use env to set TZ environment variable properly
-            result = subprocess.run(
-                ["env", f"TZ={timezone}", "date", "+%a %H:%M"],
-                capture_output=True, text=True, check=True
-            )
-            return result.stdout.strip()
+            tz = ZoneInfo(timezone)
+            now = datetime.datetime.now(tz)
+            return now.strftime("%a %H:%M")
         except Exception:
             return ""
 
     def get_timezone_utc_offset(self, timezone):
         """Get the UTC offset for a timezone."""
-        # Check if we have this info cached
         if timezone in self.timezone_info_cache:
             return self.timezone_info_cache[timezone]
 
         try:
-            # Use env to set TZ environment variable properly
-            result = subprocess.run(
-                ["env", f"TZ={timezone}", "date", "+%z"],
-                capture_output=True, text=True, check=True
-            )
-            offset_raw = result.stdout.strip()
+            tz = ZoneInfo(timezone)
+            now = datetime.datetime.now(tz)
+            offset = now.utcoffset()
+            total_seconds = int(offset.total_seconds())
+            sign = '+' if total_seconds >= 0 else '-'
+            total_seconds = abs(total_seconds)
+            hours = total_seconds // 3600
+            minutes = (total_seconds % 3600) // 60
 
-            # Parse offset properly
-            if offset_raw and len(offset_raw) >= 5:  # Format should be +HHMM or -HHMM
-                sign = offset_raw[0]
-                hours = int(offset_raw[1:3])
-                minutes = int(offset_raw[3:5])
-                
-                # Format the offset string
-                if minutes == 0:
-                    offset_str = f"UTC{sign}{hours}"
-                else:
-                    offset_str = f"UTC{sign}{hours}:{minutes:02d}"
+            if minutes == 0:
+                offset_str = f"UTC{sign}{hours}"
+            else:
+                offset_str = f"UTC{sign}{hours}:{minutes:02d}"
 
-                # Cache the result
-                self.timezone_info_cache[timezone] = offset_str
-                return offset_str
-        except Exception as e:
-            print(f"Error getting timezone offset for {timezone}: {e}")
-
-        # Default fallback if we can't determine
-        return "UTC"
+            self.timezone_info_cache[timezone] = offset_str
+            return offset_str
+        except Exception:
+            return "UTC"
 
     def populate_timezone_list(self):
         """Populate the timezone list with available timezones."""
@@ -913,45 +901,6 @@ class DateTimeApp(Gtk.Window):  # Alterado para Gtk.Window
             except Exception:
                 pass
             raise RuntimeError(f"Failed to create temporary script: {e}")
-
-    def _create_temp_script_inline(self, commands):
-        """Fallback method to create script without external template."""
-        fd, script_path = tempfile.mkstemp(suffix='.py', prefix='datetime_')
-
-        with os.fdopen(fd, 'w') as f:
-            f.write("#!/usr/bin/env python3\n")
-            f.write("import os\n")
-            f.write("import sys\n")
-            f.write("import subprocess\n\n")
-
-            # Check if running as root
-            f.write("if os.geteuid() != 0:\n")
-            f.write("    print('This script must be run as root', file=sys.stderr)\n")
-            f.write("    sys.exit(1)\n\n")
-
-            # Function to execute commands with error checking
-            f.write("def run_command(cmd):\n")
-            f.write("    try:\n")
-            f.write("        subprocess.run(cmd, check=True)\n")
-            f.write("        print(f'Successfully executed: {\" \".join(cmd)}')\n")
-            f.write("        return True\n")
-            f.write("    except subprocess.CalledProcessError as e:\n")
-            f.write("        print(f'Error executing {\" \".join(cmd)}: {e}', file=sys.stderr)\n")
-            f.write("        return False\n\n")
-
-            # Add all commands to the script
-            f.write("# Execute all privileged commands\n")
-            f.write("success = True\n")
-
-            for cmd in commands:
-                cmd_str = str(cmd).replace("'", "\"")
-                f.write(f"success = run_command({cmd_str}) and success\n")
-
-            f.write("\nsys.exit(0 if success else 1)\n")
-
-        # Make the script executable
-        os.chmod(script_path, 0o755)
-        return script_path
 
     def run_privileged_commands(self, commands):
         """
