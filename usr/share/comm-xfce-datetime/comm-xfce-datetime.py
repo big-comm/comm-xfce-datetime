@@ -483,6 +483,7 @@ class DateTimeApp(Gtk.Window):
         self.hw_local_radio = Gtk.RadioButton.new_with_label_from_widget(
             self.hw_utc_radio, _("Hardware clock uses local time")
         )
+        self.hw_local_radio.connect("toggled", self.on_setting_changed)
         hw_box.pack_start(self.hw_utc_radio, False, False, 0)
         hw_box.pack_start(self.hw_local_radio, False, False, 0)
 
@@ -563,12 +564,31 @@ class DateTimeApp(Gtk.Window):
         self.ntp_hint_label.set_visible(not manual_time)
 
         self.ntp_checkbox.set_sensitive(self.state["CanNTP"] and not self.busy)
-        self.apply_button.set_sensitive(not self.busy)
+
+        # Apply is only available when something differs from the system
+        pending = self._has_pending_changes()
+        self.apply_button.set_sensitive(pending and not self.busy)
+        self.apply_button.set_tooltip_text(None if pending else _("No changes to apply."))
 
         self.sync_button.set_sensitive(self.state["NTP"] and not self.busy)
         self.sync_button.set_tooltip_text(
             None if self.state["NTP"] else _("Network time synchronization is disabled.")
         )
+
+    def _has_pending_changes(self):
+        """Whether the widgets hold settings different from the system ones."""
+        ntp = self.ntp_checkbox.get_active()
+        timezone = self.selected_timezone or self.state["Timezone"]
+        return (
+            ntp != self.state["NTP"]
+            or self.hw_local_radio.get_active() != self.state["LocalRTC"]
+            or timezone != self.state["Timezone"]
+            or (self.time_dirty and not ntp)
+        )
+
+    def on_setting_changed(self, *_args):
+        if not self.updating_widgets:
+            self._update_sensitivity()
 
     def _set_busy(self, busy):
         self.busy = busy
@@ -636,8 +656,9 @@ class DateTimeApp(Gtk.Window):
 
     def on_time_edited(self, *_args):
         """Remember that the user changed the date or time."""
-        if not self.updating_widgets:
+        if not self.updating_widgets and not self.time_dirty:
             self.time_dirty = True
+            self._update_sensitivity()
 
     def on_search_changed(self, entry):
         """Filter the timezone list based on search text"""
@@ -669,6 +690,7 @@ class DateTimeApp(Gtk.Window):
         if row:
             place = f"{row.city}, {row.country}" if row.country else row.city
             self.set_status(f"{_('Selected')} {place}")
+        self._update_sensitivity()
         if not self.time_dirty:
             self._update_clock()
 

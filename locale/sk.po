@@ -103,103 +103,103 @@ msgstr "Hardvérové hodiny používajú UTC"
 msgid "Hardware clock uses local time"
 msgstr "Hardvérové hodiny používajú miestny čas"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:492
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:493
 msgid "System"
 msgstr "Systém"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:570
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:575
 msgid "Network time synchronization is disabled."
 msgstr "Synchronizácia času cez sieť je vypnutá."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:579
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:599
 msgid "Status:"
 msgstr "Stav:"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:601 usr/share/comm-xfce-datetime/comm-xfce-datetime.py:606
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:621 usr/share/comm-xfce-datetime/comm-xfce-datetime.py:626
 msgid "Current:"
 msgstr "Aktuálne:"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:602
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:622
 msgid "Local time:"
 msgstr "Miestny čas:"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:606
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:626
 msgid "Unknown"
 msgstr "Neznáme"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:671
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:692
 msgid "Selected"
 msgstr "Vybrané"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:678
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:700
 msgid "Selected:"
 msgstr "Vybrané:"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:679
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:701
 msgid "None"
 msgstr "Žiadne"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:737
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:571 usr/share/comm-xfce-datetime/comm-xfce-datetime.py:759
 msgid "No changes to apply."
 msgstr "Žiadne zmeny na použitie."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:743
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:765
 #, python-brace-format
 msgid "Timezone: {} ({})"
 msgstr "Časové pásmo: {} ({})"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:745
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:767
 #, python-brace-format
 msgid "Date: {}"
 msgstr "Dátum: {}"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:746
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:768
 #, python-brace-format
 msgid "Time: {}"
 msgstr "Čas: {}"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:748
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:770
 #, python-brace-format
 msgid "Hardware clock: {}"
 msgstr "Hardvérové hodiny: {}"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:749
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:771
 msgid "Local time"
 msgstr "Miestny čas"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:749
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:771
 msgid "UTC"
 msgstr "UTC"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:753
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:775
 msgid "Network time synchronization enabled."
 msgstr "Synchronizácia času cez sieť je zapnutá."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:754
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:776
 msgid "Network time synchronization disabled."
 msgstr "Synchronizácia času cez sieť je vypnutá."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:762
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:784
 msgid "The following settings will be applied:"
 msgstr "Použijú sa nasledujúce nastavenia:"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:763
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:785
 msgid "Do you want to continue?"
 msgstr "Chcete pokračovať?"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:786
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:808
 msgid "Applying settings..."
 msgstr "Používajú sa nastavenia..."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:794
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:816
 msgid "Settings could not be applied."
 msgstr "Nastavenia sa nepodarilo použiť."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:798
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:820
 msgid "Settings applied successfully!"
 msgstr "Nastavenia boli úspešne použité!"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:803
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:825
 msgid ""
 "Settings have been applied successfully!\n"
 "\n"
@@ -209,26 +209,26 @@ msgstr ""
 "\n"
 "Nové časové pásmo je teraz aktívne pre systémové služby a nové aplikácie. Niektoré spustené aplikácie možno bude potrebné reštartovať, aby použili nové nastavenie časového pásma."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:823
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:845
 msgid "Failed to restart XFCE panel: "
 msgstr "Nepodarilo sa reštartovať panel XFCE: "
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:829
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:851
 msgid "Please wait, synchronizing..."
 msgstr "Počkajte, prebieha synchronizácia..."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:849
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:871
 msgid "Synchronization failed."
 msgstr "Synchronizácia zlyhala."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:860
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:882
 msgid "Synchronization completed successfully!"
 msgstr "Synchronizácia bola úspešne dokončená!"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:862
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:884
 msgid "Synchronization requested. The clock will be adjusted shortly."
 msgstr "Synchronizácia bola vyžiadaná. Hodiny sa čoskoro upravia."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:893
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:915
 msgid "Error getting timezone"
 msgstr "Chyba pri získavaní časového pásma"

@@ -103,103 +103,103 @@ msgstr "Vélbúnaðarklukkan notar UTC"
 msgid "Hardware clock uses local time"
 msgstr "Vélbúnaðarklukkan notar staðartíma"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:492
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:493
 msgid "System"
 msgstr "Kerfi"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:570
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:575
 msgid "Network time synchronization is disabled."
 msgstr "Netsamstilling tíma er óvirk."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:579
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:599
 msgid "Status:"
 msgstr "Staða:"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:601 usr/share/comm-xfce-datetime/comm-xfce-datetime.py:606
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:621 usr/share/comm-xfce-datetime/comm-xfce-datetime.py:626
 msgid "Current:"
 msgstr "Núverandi:"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:602
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:622
 msgid "Local time:"
 msgstr "Staðartími:"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:606
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:626
 msgid "Unknown"
 msgstr "Óþekkt"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:671
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:692
 msgid "Selected"
 msgstr "Valið"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:678
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:700
 msgid "Selected:"
 msgstr "Valið:"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:679
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:701
 msgid "None"
 msgstr "Ekkert"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:737
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:571 usr/share/comm-xfce-datetime/comm-xfce-datetime.py:759
 msgid "No changes to apply."
 msgstr "Engar breytingar til að virkja."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:743
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:765
 #, python-brace-format
 msgid "Timezone: {} ({})"
 msgstr "Tímabelti: {} ({})"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:745
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:767
 #, python-brace-format
 msgid "Date: {}"
 msgstr "Dagsetning: {}"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:746
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:768
 #, python-brace-format
 msgid "Time: {}"
 msgstr "Tími: {}"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:748
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:770
 #, python-brace-format
 msgid "Hardware clock: {}"
 msgstr "Vélbúnaðarklukka: {}"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:749
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:771
 msgid "Local time"
 msgstr "Staðartími"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:749
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:771
 msgid "UTC"
 msgstr "UTC"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:753
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:775
 msgid "Network time synchronization enabled."
 msgstr "Netsamstilling tíma virk."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:754
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:776
 msgid "Network time synchronization disabled."
 msgstr "Netsamstilling tíma óvirk."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:762
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:784
 msgid "The following settings will be applied:"
 msgstr "Eftirfarandi stillingar verða virkjaðar:"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:763
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:785
 msgid "Do you want to continue?"
 msgstr "Viltu halda áfram?"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:786
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:808
 msgid "Applying settings..."
 msgstr "Virkja stillingar..."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:794
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:816
 msgid "Settings could not be applied."
 msgstr "Ekki tókst að virkja stillingarnar."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:798
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:820
 msgid "Settings applied successfully!"
 msgstr "Stillingar virkjaðar!"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:803
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:825
 msgid ""
 "Settings have been applied successfully!\n"
 "\n"
@@ -209,26 +209,26 @@ msgstr ""
 "\n"
 "Nýja tímabeltið er nú virkt fyrir kerfisþjónustur og ný forrit. Endurræsa gæti þurft sum forrit sem eru í gangi til að þau noti nýju tímabeltisstillingarnar."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:823
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:845
 msgid "Failed to restart XFCE panel: "
 msgstr "Ekki tókst að endurræsa XFCE-spjald: "
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:829
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:851
 msgid "Please wait, synchronizing..."
 msgstr "Augnablik, samstilli..."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:849
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:871
 msgid "Synchronization failed."
 msgstr "Samstilling mistókst."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:860
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:882
 msgid "Synchronization completed successfully!"
 msgstr "Samstilling tókst!"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:862
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:884
 msgid "Synchronization requested. The clock will be adjusted shortly."
 msgstr "Samstilling beðin. Klukkan verður stillt innan skamms."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:893
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:915
 msgid "Error getting timezone"
 msgstr "Villa við að sækja tímabelti"

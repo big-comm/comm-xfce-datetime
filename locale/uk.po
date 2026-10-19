@@ -103,103 +103,103 @@ msgstr "Апаратний годинник використовує UTC"
 msgid "Hardware clock uses local time"
 msgstr "Апаратний годинник використовує місцевий час"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:492
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:493
 msgid "System"
 msgstr "Система"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:570
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:575
 msgid "Network time synchronization is disabled."
 msgstr "Синхронізацію часу через мережу вимкнено."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:579
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:599
 msgid "Status:"
 msgstr "Стан:"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:601 usr/share/comm-xfce-datetime/comm-xfce-datetime.py:606
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:621 usr/share/comm-xfce-datetime/comm-xfce-datetime.py:626
 msgid "Current:"
 msgstr "Поточний:"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:602
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:622
 msgid "Local time:"
 msgstr "Місцевий час:"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:606
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:626
 msgid "Unknown"
 msgstr "Невідомо"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:671
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:692
 msgid "Selected"
 msgstr "Вибрано"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:678
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:700
 msgid "Selected:"
 msgstr "Вибрано:"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:679
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:701
 msgid "None"
 msgstr "Немає"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:737
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:571 usr/share/comm-xfce-datetime/comm-xfce-datetime.py:759
 msgid "No changes to apply."
 msgstr "Немає змін для застосування."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:743
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:765
 #, python-brace-format
 msgid "Timezone: {} ({})"
 msgstr "Часовий пояс: {} ({})"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:745
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:767
 #, python-brace-format
 msgid "Date: {}"
 msgstr "Дата: {}"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:746
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:768
 #, python-brace-format
 msgid "Time: {}"
 msgstr "Час: {}"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:748
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:770
 #, python-brace-format
 msgid "Hardware clock: {}"
 msgstr "Апаратний годинник: {}"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:749
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:771
 msgid "Local time"
 msgstr "Місцевий час"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:749
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:771
 msgid "UTC"
 msgstr "UTC"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:753
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:775
 msgid "Network time synchronization enabled."
 msgstr "Синхронізацію часу через мережу ввімкнено."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:754
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:776
 msgid "Network time synchronization disabled."
 msgstr "Синхронізацію часу через мережу вимкнено."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:762
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:784
 msgid "The following settings will be applied:"
 msgstr "Буде застосовано такі налаштування:"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:763
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:785
 msgid "Do you want to continue?"
 msgstr "Бажаєте продовжити?"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:786
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:808
 msgid "Applying settings..."
 msgstr "Застосування налаштувань..."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:794
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:816
 msgid "Settings could not be applied."
 msgstr "Не вдалося застосувати налаштування."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:798
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:820
 msgid "Settings applied successfully!"
 msgstr "Налаштування успішно застосовано!"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:803
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:825
 msgid ""
 "Settings have been applied successfully!\n"
 "\n"
@@ -209,26 +209,26 @@ msgstr ""
 "\n"
 "Новий часовий пояс тепер діє для системних служб і нових програм. Деякі запущені програми, можливо, потрібно перезапустити, щоб вони використовували новий часовий пояс."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:823
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:845
 msgid "Failed to restart XFCE panel: "
 msgstr "Не вдалося перезапустити панель XFCE: "
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:829
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:851
 msgid "Please wait, synchronizing..."
 msgstr "Зачекайте, триває синхронізація..."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:849
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:871
 msgid "Synchronization failed."
 msgstr "Не вдалося синхронізувати."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:860
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:882
 msgid "Synchronization completed successfully!"
 msgstr "Синхронізацію успішно завершено!"
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:862
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:884
 msgid "Synchronization requested. The clock will be adjusted shortly."
 msgstr "Синхронізацію запрошено. Годинник буде скориговано найближчим часом."
 
-#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:893
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:915
 msgid "Error getting timezone"
 msgstr "Помилка отримання часового поясу"
