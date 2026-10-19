@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE policyconfig PUBLIC
+ "-//freedesktop//DTD PolicyKit Policy Configuration 1.0//EN"
+ "http://www.freedesktop.org/standards/PolicyKit/1/policyconfig.dtd">
+<policyconfig>
+  <vendor>BigCommunity</vendor>
+  <vendor_url>https://github.com/big-comm/comm-xfce-datetime</vendor_url>
+  <icon_name>time</icon_name>
+
+  <action id="org.bigcommunity.comm-xfce-datetime.apply">
+    <description>Change date and time settings</description>
+    <description xml:lang="bg">Промяна на настройките на датата и часа</description>
+    <description xml:lang="cs">Změnit nastavení data a času</description>
+    <description xml:lang="da">Ændr indstillinger for dato og tid</description>
+    <description xml:lang="de">Datum- und Uhrzeiteinstellungen ändern</description>
+    <description xml:lang="el">Αλλαγή ρυθμίσεων ημερομηνίας και ώρας</description>
+    <description xml:lang="es">Cambiar la configuración de fecha y hora</description>
+    <description xml:lang="et">Muuda kuupäeva ja kellaaja seadeid</description>
+    <description xml:lang="fi">Muuta päivämäärän ja ajan asetuksia</description>
+    <description xml:lang="fr">Modifier les paramètres de date et d'heure</description>
+    <description xml:lang="he">שינוי הגדרות תאריך ושעה</description>
+    <description xml:lang="hr">Promjena postavki datuma i vremena</description>
+    <description xml:lang="hu">Dátum- és időbeállítások módosítása</description>
+    <description xml:lang="is">Breyta stillingum dagsetningar og tíma</description>
+    <description xml:lang="it">Modifica le impostazioni di data e ora</description>
+    <description xml:lang="ja">日付と時刻の設定を変更する</description>
+    <description xml:lang="ko">날짜 및 시간 설정 변경</description>
+    <description xml:lang="nl">Datum- en tijdinstellingen wijzigen</description>
+    <description xml:lang="nb">Endre dato- og tidsinnstillinger</description>
+    <description xml:lang="pl">Zmień ustawienia daty i czasu</description>
+    <description xml:lang="pt">Alterar as configurações de data e hora</description>
+    <description xml:lang="ro">Modifică setările de dată și oră</description>
+    <description xml:lang="ru">Изменение настроек даты и времени</description>
+    <description xml:lang="sk">Zmena nastavení dátumu a času</description>
+    <description xml:lang="sv">Ändra inställningar för datum och tid</description>
+    <description xml:lang="tr">Tarih ve saat ayarlarını değiştir</description>
+    <description xml:lang="uk">Змінення налаштувань дати й часу</description>
+    <description xml:lang="zh">更改日期和时间设置</description>
+    <message>Authentication is required to change the date, time and timezone settings</message>
+    <message xml:lang="bg">Необходимо е удостоверяване, за да се променят настройките на датата, часа и часовата зона</message>
+    <message xml:lang="cs">Ke změně nastavení data, času a časového pásma je vyžadováno ověření</message>
+    <message xml:lang="da">Godkendelse er påkrævet for at ændre indstillingerne for dato, tid og tidszone</message>
+    <message xml:lang="de">Zum Ändern der Einstellungen für Datum, Uhrzeit und Zeitzone ist eine Authentifizierung erforderlich</message>
+    <message xml:lang="el">Απαιτείται έλεγχος ταυτότητας για την αλλαγή των ρυθμίσεων ημερομηνίας, ώρας και ζώνης ώρας</message>
+    <message xml:lang="es">Se requiere autenticación para cambiar la configuración de fecha, hora y zona horaria</message>
+    <message xml:lang="et">Kuupäeva, kellaaja ja ajavööndi seadete muutmiseks on vajalik autentimine</message>
+    <message xml:lang="fi">Päivämäärän, ajan ja aikavyöhykkeen asetusten muuttaminen edellyttää todennusta</message>
+    <message xml:lang="fr">Une authentification est requise pour modifier les paramètres de date, d'heure et de fuseau horaire</message>
+    <message xml:lang="he">נדרש אימות כדי לשנות את הגדרות התאריך, השעה ואזור הזמן</message>
+    <message xml:lang="hr">Za promjenu postavki datuma, vremena i vremenske zone potrebna je autentifikacija</message>
+    <message xml:lang="hu">A dátum-, idő- és időzóna-beállítások módosításához hitelesítés szükséges</message>
+    <message xml:lang="is">Auðkenning er nauðsynleg til að breyta stillingum dagsetningar, tíma og tímabeltis</message>
+    <message xml:lang="it">È richiesta l'autenticazione per modificare le impostazioni di data, ora e fuso orario</message>
+    <message xml:lang="ja">日付、時刻、タイムゾーンの設定を変更するには認証が必要です</message>
+    <message xml:lang="ko">날짜, 시간 및 시간대 설정을 변경하려면 인증이 필요합니다</message>
+    <message xml:lang="nl">Authenticatie is vereist om de datum-, tijd- en tijdzone-instellingen te wijzigen</message>
+    <message xml:lang="nb">Autentisering kreves for å endre innstillingene for dato, tid og tidssone</message>
+    <message xml:lang="pl">Zmiana ustawień daty, czasu i strefy czasowej wymaga uwierzytelnienia</message>
+    <message xml:lang="pt">É necessária autenticação para alterar as configurações de data, hora e fuso horário</message>
+    <message xml:lang="ro">Este necesară autentificarea pentru a modifica setările de dată, oră și fus orar</message>
+    <message xml:lang="ru">Для изменения настроек даты, времени и часового пояса требуется аутентификация</message>
+    <message xml:lang="sk">Na zmenu nastavení dátumu, času a časového pásma je potrebné overenie totožnosti</message>
+    <message xml:lang="sv">Autentisering krävs för att ändra inställningarna för datum, tid och tidszon</message>
+    <message xml:lang="tr">Tarih, saat ve saat dilimi ayarlarını değiştirmek için kimlik doğrulaması gerekir</message>
+    <message xml:lang="uk">Для змінення налаштувань дати, часу та часового поясу потрібна автентифікація</message>
+    <message xml:lang="zh">更改日期、时间和时区设置需要进行身份验证</message>
+    <defaults>
+      <allow_any>auth_admin</allow_any>
+      <allow_inactive>auth_admin</allow_inactive>
+      <allow_active>auth_admin_keep</allow_active>
+    </defaults>
+    <annotate key="org.freedesktop.policykit.exec.path">/usr/lib/comm-xfce-datetime/apply-settings</annotate>
+  </action>
+</policyconfig>

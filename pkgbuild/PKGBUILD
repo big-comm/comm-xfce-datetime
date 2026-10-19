@@ -7,9 +7,13 @@ depends=(
     'python>=3.9'
     'python-gobject'
     'gtk3'
+    'systemd'
+    'polkit'
 )
-#makedepends=('')
-#optdepends=('')
+makedepends=('gettext')
+optdepends=(
+    'iso-codes: translated country names in the timezone list'
+)
 #conflicts=('')
 #provides=('')
 #replaces=('')
@@ -38,6 +42,16 @@ package() {
         if [ -d "${srcdir}/${dir}" ]; then
             cp -a "${srcdir}/${dir}" "${pkgdir}/"
         fi
+    done
+
+    # Compile translations
+    for po in "${srcdir}"/locale/*.po; do
+        [ -f "${po}" ] || continue
+        lang=$(basename "${po}" .po)
+        # gettext looks up Norwegian Bokmål as "nb"
+        [ "${lang}" = "no" ] && lang="nb"
+        install -d "${pkgdir}/usr/share/locale/${lang}/LC_MESSAGES"
+        msgfmt "${po}" -o "${pkgdir}/usr/share/locale/${lang}/LC_MESSAGES/${pkgname}.mo"
     done
 
     # Install license file if present
