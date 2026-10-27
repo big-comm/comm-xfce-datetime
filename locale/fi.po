@@ -1,384 +1,234 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the comm-xfce-datetime package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
-#, fuzzy
+# Finnish translation for comm-xfce-datetime.
 msgid ""
 msgstr ""
 "Project-Id-Version: comm-xfce-datetime\n"
-"Report-Msgid-Bugs-To: \n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2026-10-19 19:40-0300\n"
+"Last-Translator: BigCommunity\n"
+"Language-Team: BigCommunity\n"
+"Language: fi\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: attranslate\n"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 35
-#: NEEDS WORK
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:186 usr/share/comm-xfce-datetime/comm-xfce-datetime.py:193 usr/share/comm-xfce-datetime/comm-xfce-datetime.py:200
+msgid "Command failed"
+msgstr "Komento epäonnistui"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:198
+msgid "Permission denied. Please provide administrator password when prompted."
+msgstr "Käyttöoikeus evätty. Anna järjestelmänvalvojan salasana, kun sitä pyydetään."
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:270
 msgid "Date and Time Settings"
-msgstr "Päivämäärä- ja aikasettings"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 69
-#: NEEDS WORK
+msgstr "Päivämäärän ja ajan asetukset"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:319
 msgid "Status: Ready"
-msgstr "Tila: Valmis"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 108
-#: NEEDS WORK
-msgid "Cancel"
-msgstr "Peruuta"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 111
-#: NEEDS WORK
+msgstr "Tila: valmis"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:333
+msgid "Close"
+msgstr "Sulje"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:336
 msgid "Synchronize"
 msgstr "Synkronoi"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 105
-#: NEEDS WORK
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:339
 msgid "Apply"
 msgstr "Käytä"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 111
-#: NEEDS WORK
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:355
 msgid "Date"
 msgstr "Päivämäärä"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 124
-#: NEEDS WORK
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:367
 msgid "Time"
 msgstr "Aika"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 72
-#: NEEDS WORK
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:377
 msgid "Hour:"
-msgstr "Tunti:"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 74
-#: NEEDS WORK
+msgstr "Tunnit:"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:378
 msgid "Minute:"
-msgstr "Minuutti:"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 141
-#: NEEDS WORK
+msgstr "Minuutit:"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:379
 msgid "Second:"
-msgstr "Toinen:"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 148
-#: NEEDS WORK
+msgstr "Sekunnit:"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:391
+msgid "The date and time are set automatically while network time synchronization is enabled."
+msgstr "Päivämäärä ja aika asetetaan automaattisesti, kun verkkoajan synkronointi on käytössä."
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:398
 msgid "Date & Time"
 msgstr "Päivämäärä ja aika"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 161
-#: NEEDS WORK
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:407
 msgid "Search:"
 msgstr "Haku:"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 185
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 460
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 468
-#: NEEDS WORK
-msgid "Selected:"
-msgstr "Valittu:"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 185
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 468
-#: NEEDS WORK
-msgid "None"
-msgstr "Ei mitään"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 190
-#: NEEDS WORK
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:434
 msgid "Timezone"
 msgstr "Aikavyöhyke"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 202
-#: NEEDS WORK
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:442
 msgid "Time Synchronization"
 msgstr "Ajan synkronointi"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 211
-#: NEEDS WORK
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:447
 msgid "Enable Network Time Synchronization"
-msgstr "Ota käyttöön verkon aikasykronointi"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 219
-#: NEEDS WORK
+msgstr "Ota verkkoajan synkronointi käyttöön"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:456
 msgid "NTP Servers:"
 msgstr "NTP-palvelimet:"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 230
-#: NEEDS WORK
-msgid "Note: NTP servers are configured in /etc/ntp.conf"
-msgstr "Huomautus: NTP-palvelimet on määritetty tiedostossa /etc/ntp.conf"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 239
-#: NEEDS WORK
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:467
+#, python-brace-format
+msgid "Note: NTP servers are configured in {}"
+msgstr "Huomautus: NTP-palvelimet määritetään tiedostossa {}"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:478
 msgid "Hardware Clock"
-msgstr "Laitteiston kello"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 246
-#: NEEDS WORK
+msgstr "Laitteistokello"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:482
 msgid "Hardware clock uses UTC"
-msgstr "Laitteiston kello käyttää UTC:tä"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 248
-#: NEEDS WORK
+msgstr "Laitteistokello käyttää UTC-aikaa"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:484
 msgid "Hardware clock uses local time"
-msgstr "Laitteiston kello käyttää paikallista aikaa"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 262
-#: NEEDS WORK
+msgstr "Laitteistokello käyttää paikallista aikaa"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:493
 msgid "System"
 msgstr "Järjestelmä"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 396
-#: NEEDS WORK
-msgid "Error loading timezone data: "
-msgstr "Virhe aikavyöhyketietojen lataamisessa:"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 402
-#: NEEDS WORK
-msgid "Brazil"
-msgstr "Brasilia"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 403
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 404
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 405
-#: NEEDS WORK
-msgid "United States"
-msgstr "Yhdysvallat"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 406
-#: NEEDS WORK
-msgid "Canada"
-msgstr "Kanada"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 407
-#: NEEDS WORK
-msgid "Mexico"
-msgstr "Meksiko"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 408
-#: NEEDS WORK
-msgid "United Kingdom"
-msgstr "Yhdistynyt kuningaskunta"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 409
-#: NEEDS WORK
-msgid "France"
-msgstr "Ranska"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 410
-#: NEEDS WORK
-msgid "Germany"
-msgstr "Saksa"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 411
-#: NEEDS WORK
-msgid "Italy"
-msgstr "Italia"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 412
-#: NEEDS WORK
-msgid "Spain"
-msgstr "Espanja"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 413
-#: NEEDS WORK
-msgid "Russia"
-msgstr "Venäjä"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 414
-#: NEEDS WORK
-msgid "Egypt"
-msgstr "Egypti"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 415
-#: NEEDS WORK
-msgid "South Africa"
-msgstr "Etelä-Afrikka"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 416
-#: NEEDS WORK
-msgid "UAE"
-msgstr "Yhdistyneet Arabiemiirikunnat"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 417
-#: NEEDS WORK
-msgid "India"
-msgstr "Intia"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 418
-#: NEEDS WORK
-msgid "Japan"
-msgstr "Japani"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 419
-#: NEEDS WORK
-msgid "China"
-msgstr "Kiina"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 420
-#: NEEDS WORK
-msgid "South Korea"
-msgstr "Etelä-Korea"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 421
-#: NEEDS WORK
-msgid "Singapore"
-msgstr "Singapore"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 422
-#: NEEDS WORK
-msgid "Australia"
-msgstr "Australia"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 423
-#: NEEDS WORK
-msgid "New Zealand"
-msgstr "Uusi-Seelanti"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 463
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 545
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 650
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 662
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 675
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 686
-#: NEEDS WORK
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:575
+msgid "Network time synchronization is disabled."
+msgstr "Verkkoajan synkronointi on poissa käytöstä."
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:599
 msgid "Status:"
 msgstr "Tila:"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 463
-#: NEEDS WORK
-msgid "Selected"
-msgstr "Valittu"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 500
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 503
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 505
-#: NEEDS WORK
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:621 usr/share/comm-xfce-datetime/comm-xfce-datetime.py:626
 msgid "Current:"
 msgstr "Nykyinen:"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 500
-#: NEEDS WORK
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:622
 msgid "Local time:"
 msgstr "Paikallinen aika:"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 503
-#: NEEDS WORK
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:626
 msgid "Unknown"
 msgstr "Tuntematon"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 505
-#: NEEDS WORK
-msgid "Error getting timezone"
-msgstr "Virhe aikavyöhykkeen saamisessa"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 539
-#: NEEDS WORK
-msgid "Network time synchronization enabled."
-msgstr "Verkkoajan synkronointi käytössä."
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 541
-#: NEEDS WORK
-msgid "Network time synchronization disabled."
-msgstr "Verkkoajan synkronointi pois päältä."
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 577
-#: NEEDS WORK
-msgid "No timezone selected. Please select a timezone from the list."
-msgstr "Aikavyöhykettä ei ole valittu. Valitse aikavyöhyke luettelosta."
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 592
-#: NEEDS WORK
-msgid ""
-"The following settings will be applied:\n"
-"\n"
-"Date: {}\n"
-"Time: {}\n"
-"Timezone: {} ({})\n"
-"Hardware clock: {}\n"
-"\n"
-"Do you want to continue?"
-msgstr ""
-"Seuraavat asetukset otetaan käyttöön:\n"
-"\n"
-"Päivämäärä: {}\n"
-"Aika: {}\n"
-"Aikavyöhyke: {} ({})\n"
-"Laitteiston kello: {}\n"
-"\n"
-"Haluatko jatkaa?"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 604
-#: NEEDS WORK
-msgid "UTC"
-msgstr "UTC"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 604
-#: NEEDS WORK
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:692
+msgid "Selected"
+msgstr "Valittu"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:700
+msgid "Selected:"
+msgstr "Valittu:"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:701
+msgid "None"
+msgstr "Ei mitään"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:571 usr/share/comm-xfce-datetime/comm-xfce-datetime.py:759
+msgid "No changes to apply."
+msgstr "Ei toteutettavia muutoksia."
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:765
+#, python-brace-format
+msgid "Timezone: {} ({})"
+msgstr "Aikavyöhyke: {} ({})"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:767
+#, python-brace-format
+msgid "Date: {}"
+msgstr "Päivämäärä: {}"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:768
+#, python-brace-format
+msgid "Time: {}"
+msgstr "Aika: {}"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:770
+#, python-brace-format
+msgid "Hardware clock: {}"
+msgstr "Laitteistokello: {}"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:771
 msgid "Local time"
 msgstr "Paikallinen aika"
-# 
-# File: usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 718
-#: NEEDS WORK
-msgid "Failed to restart XFCE panel: "
-msgstr "XFCE-paneelin uudelleenkäynnistys epäonnistui:"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 643
-#: NEEDS WORK
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:771
+msgid "UTC"
+msgstr "UTC"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:775
+msgid "Network time synchronization enabled."
+msgstr "Verkkoajan synkronointi otettu käyttöön."
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:776
+msgid "Network time synchronization disabled."
+msgstr "Verkkoajan synkronointi poistettu käytöstä."
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:784
+msgid "The following settings will be applied:"
+msgstr "Seuraavat asetukset otetaan käyttöön:"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:785
+msgid "Do you want to continue?"
+msgstr "Haluatko jatkaa?"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:808
 msgid "Applying settings..."
-msgstr "Asetusten soveltaminen..."
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 280
-#: NEEDS WORK
+msgstr "Otetaan asetuksia käyttöön..."
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:816
+msgid "Settings could not be applied."
+msgstr "Asetusten käyttöönotto epäonnistui."
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:820
 msgid "Settings applied successfully!"
-msgstr "Asetukset on sovellettu onnistuneesti!"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 700
-#: NEEDS WORK
+msgstr "Asetukset otettiin käyttöön!"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:825
 msgid ""
 "Settings have been applied successfully!\n"
 "\n"
-"The new timezone is now active for system services and new applications. Some running applications "
-"may need to be restarted to use the new timezone settings."
+"The new timezone is now active for system services and new applications. Some running applications may need to be restarted to use the new timezone settings."
 msgstr ""
-"Asetukset on sovellettu onnistuneesti!\n"
+"Asetukset otettiin käyttöön!\n"
 "\n"
-"Uusi aikavyöhyke on nyt aktiivinen järjestelmäpalveluille ja uusille sovelluksille. Jotkin "
-"käynnissä olevat sovellukset saattavat vaatia uudelleenkäynnistämistä, jotta ne voivat käyttää "
-"uusia aikavyöhykeasetuksia."
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 293
-#: NEEDS WORK
+"Uusi aikavyöhyke on nyt käytössä järjestelmäpalveluissa ja uusissa sovelluksissa. Jotkin käynnissä olevat sovellukset on ehkä käynnistettävä uudelleen, jotta ne käyttävät uusia aikavyöhykeasetuksia."
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:845
+msgid "Failed to restart XFCE panel: "
+msgstr "XFCE-paneelin uudelleenkäynnistys epäonnistui: "
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:851
 msgid "Please wait, synchronizing..."
-msgstr "Ole hyvä ja odota, synkronoidaan..."
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 308
-#: NEEDS WORK
-msgid "Synchronization completed successfully!"
-msgstr "Synkronointi suoritettu onnistuneesti!"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 686
-#: NEEDS WORK
+msgstr "Odota, synkronoidaan..."
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:871
 msgid "Synchronization failed."
 msgstr "Synkronointi epäonnistui."
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 761
-#: NEEDS WORK
-msgid "Permission denied. Please provide administrator password when prompted."
-msgstr "Käyttöoikeus evätty. Anna järjestelmänvalvojan salasana, kun sitä kysytään."
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 763
-#: NEEDS WORK
-msgid "Command failed"
-msgstr "Komento epäonnistui"
-# 
-# File: comm-xfce-datetime/usr/share/comm-xfce-datetime/comm-xfce-datetime.py, line: 984
-#: NEEDS WORK
-msgid "Some commands failed. Check system logs for details."
-msgstr "Jotkin komennot epäonnistuivat. Tarkista järjestelmälokit saadaksesi lisätietoja."
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:882
+msgid "Synchronization completed successfully!"
+msgstr "Synkronointi onnistui!"
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:884
+msgid "Synchronization requested. The clock will be adjusted shortly."
+msgstr "Synkronointia pyydetty. Kello päivitetään pian."
+
+#: usr/share/comm-xfce-datetime/comm-xfce-datetime.py:915
+msgid "Error getting timezone"
+msgstr "Virhe aikavyöhykettä haettaessa"
